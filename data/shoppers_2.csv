@@ -1,0 +1,11 @@
+Region,Gender,Age,Income,Online_Shopper
+India,M,49,,No
+Brazil,F,32,57600,Yes
+USA,F,,,No
+Brazil,,43,73200,No
+USA,M,45,,Yes
+India,F,40,69600,Yes
+Brazil,M,,62400,No
+India,,53,94800,Yes
+USA,M,55,,No
+India,F,,80400,Yes
