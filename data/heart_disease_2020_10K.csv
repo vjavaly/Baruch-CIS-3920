@@ -1,0 +1,1001 @@
+PatientID|HeartDisease|BMI|Smoker|AlcoholDrinker|HasBloodClots|NumDaysMonth_PoorPhysicalHealth|NumDaysMonth_PoorMentalHealth|HasDifficultyClimbingStairs|Gender|AgeCategory|Race|IsDiabetic|DidExerciseLastMonth|GeneralHealthState|AvgHoursSleep|HasAsthma|HasKidneyDisease|HasSkinCancer
+218724|No|22.31|No|No|No|0.0|14.0|No|Female|18-24|White|No|Yes|Very good|9.0|No|No|No
+280548|No|52.42|Yes|No|No|0.0|0.0|No|Female|40-44|Hispanic|No|No|Good|6.0|No|No|No
+347539|No|32.92|Yes|No|No|0.0|4.0|No|Female|70-74|White|No|No|Excellent|8.0|No|No|No
+737081|No|21.95|No|No|No|0.0|2.0|No|Female|18-24|White|No|Yes|Very good|8.0|No|No|No
+654028|Yes|||No|Yes|26.0||Yes||75-79|Black||No|Poor||No|No|No
+743021|No|33.33|No|No|No|0.0|0.0|No|Female|60-64|Hispanic|No|Yes|Excellent|8.0|No|No|No
+265900|No|28.48|No|No|No|5.0|5.0|No|Male|40-44|Black|No|Yes|Excellent|7.0|No|No|No
+230478|No|31.25|Yes|No|No|0.0|0.0|No|Male|50-54|Hispanic|Yes|No|Good|8.0|No|No|No
+854108|No|28.29|No|No|No|0.0|5.0|No|Female|25-29|White|No|Yes|Good|8.0|No|No|No
+595831|No|20.34|Yes|No|No|0.0|5.0|No|Female|75-79|White|No|Yes|Very good|7.0|No|No|No
+218217|No|56.68|No|No|No|0.0|20.0|No|Female|30-34|Black|No|No|Very good|8.0|No|No|No
+694171|No|||No|No|||No||50-54|White||Yes|||Yes|No|No
+702761|No|31.62|Yes|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Excellent|8.0|No|No|No
+224044|No|29.95|No|No|No|0.0|5.0|No|Female|50-54|Black|No|Yes|Fair|4.0|No|No|No
+443325|No|26.14|No|No|No|7.0|2.0|No|Male|55-59|White|No|Yes|Very good|5.0|No|Yes|No
+468441|No|36.05|No|No|No|1.0|0.0|Yes|Female|60-64|White|No|Yes|Fair|8.0|No|No|No
+687651|No|29.05|Yes|No|No|0.0|3.0|No|Female|65-69|White|No|Yes|Good|7.0|No|No|No
+756161|No|36.92|No|No|No|0.0|5.0|No|Female|18-24|American Indian/Alaskan Native|No|Yes|Very good|8.0|No|No|No
+496924|No|30.81|No|No|No|2.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+851979|No|36.61|No|No|No|0.0|0.0|No|Female|50-54|White|Yes|Yes|Good|7.0|No|No|No
+739701|No|41.2|No|No|No|0.0|0.0|Yes|Female|55-59|Black|No|Yes|Fair|5.0|No|No|No
+221640|No|29.53|No|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Very good|8.0|No|No|No
+865775|No|31.35|No|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Excellent|6.0|No|No|No
+726332|No|30.13|Yes|Yes|No|0.0|7.0|No|Male|30-34|Hispanic|No|Yes|Good|6.0|No|No|No
+222819|No|28.12|No|Yes|No|0.0|0.0|No|Male|35-39|White|No|Yes|Very good|7.0|No|No|No
+869364|No|34.33|No|No|No|2.0|0.0|No|Female|35-39|Black|No|Yes|Fair|12.0|No|No|No
+282299|No|47.56|Yes|No|No|0.0|0.0|Yes|Female|65-69|Hispanic|No, borderline diabetes|No|Excellent|8.0|No|No|No
+698688|No|29.26|Yes|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|8.0|No|No|No
+288366|No|25.8|Yes|No|No|0.0|1.0|No|Male|40-44|White|No|Yes|Very good|7.0|No|No|No
+837074|No|24.94|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|No|Very good|8.0|No|No|No
+385586|No|28.32|No|Yes|No|5.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+134813|No|31.57|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|No|Good|8.0|No|No|No
+469384|No|25.4|Yes|No|No|0.0|1.0|No|Female|65-69|White|No|Yes|Very good|8.0|Yes|No|No
+552578|No|27.26|Yes|No|No|0.0|0.0|No|Male|65-69|White|Yes|Yes|Good|6.0|No|No|No
+371795|No|27.32|No|No|No|1.0|10.0|No|Male|35-39|White|No|Yes|Very good|7.0|No|No|No
+707361|Yes|35.51|Yes|No|No|30.0|0.0|No|Female|70-74|Black|No|No|Good|8.0|Yes|No|No
+837861|No|16.14|No|No|No|0.0|2.0|No|Female|80 or older|White|No|Yes|Very good|8.0|No|No|No
+237394|No|21.41|Yes|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Good|8.0|No|No|No
+475109|No|24.41|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+727594|No|22.32|No|No|No|0.0|10.0|No|Female|18-24|Hispanic|No|No|Good|5.0|No|No|No
+773105|No|28.06|Yes|No|No|0.0|10.0|No|Female|30-34|White|No|Yes|Very good|6.0|No|No|No
+143553|No|30.79|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|7.0|No|No|No
+378395|Yes|28.41|No|No|No|25.0|30.0|Yes|Female|80 or older|White|No|No|Poor|4.0|No|Yes|No
+412402|No|22.15|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|8.0|Yes|No|No
+641495|No|30.18|No|No|No|0.0|0.0|No|Female|60-64|White|Yes|Yes|Very good|7.0|No|No|Yes
+598770|No|26.63|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|7.0|No|No|No
+832396|No|24.8|No|No|No|10.0|0.0|Yes|Female|80 or older|White|Yes|No|Poor|8.0|No|No|No
+803544|No|34.95|No|No|No|2.0|0.0|No|Female|45-49|White|No|No|Very good|8.0|No|No|No
+871808|No|33.45|Yes|No|No|1.0|4.0|No|Female|60-64|White|No|No|Excellent|8.0|No|No|No
+448937|No|20.8|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+162056|No|34.97|No|No|No|2.0|5.0|No|Female|30-34|Black|No|Yes|Fair|6.0|Yes|No|No
+624814|No|28.7|No|No|No|3.0|30.0|No|Female|35-39|White|No|Yes|Very good|7.0|No|No|No
+600105|No|26.63|Yes|No|No|0.0|0.0|No|Female|50-54|White|No|Yes|Good|7.0|No|No|No
+288196|No|29.03|No|No|No|2.0|7.0|Yes|Male|70-74|White|No|Yes|Fair|10.0|No|No|No
+768577|No|39.13|Yes|No|No|0.0|25.0|No|Male|35-39|White|No|Yes|Very good|4.0|Yes|No|No
+675060|Yes|23.24|No|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Very good|8.0|No|No|Yes
+605488|No|19.79|Yes|Yes|No|0.0|0.0|No|Male|55-59|Black|No|Yes|Excellent|5.0|No|No|No
+827609|No|24.41|Yes|No|No|14.0|20.0|No|Male|18-24|Hispanic|No|No|Excellent|5.0|Yes|No|No
+732499|No|22.96|Yes|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|6.0|Yes|No|No
+338627|Yes|38.37|Yes|No|No|15.0|0.0|Yes|Female|75-79|White|No|No|Poor|8.0|No|No|No
+609395|No|37.12|Yes|No|No|7.0|7.0|Yes|Female|70-74|White|Yes|No|Good|8.0|No|No|No
+720154|No|21.26|Yes|No|No|0.0|0.0|No|Female|30-34|White|No|No|Very good|6.0|No|No|No
+790569|No|37.79|No|No|No|0.0|3.0|No|Female|40-44|White|No|Yes|Very good|7.0|No|No|No
+672834|No|34.17|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Very good|7.0|No|No|No
+153073|No|24.63|No|No|No|0.0|1.0|No|Male|40-44|White|No|Yes|Good|6.0|No|No|No
+479439|No|36.58|Yes|No|No|30.0|20.0|Yes|Female|35-39|White|No|No|Good|5.0|No|No|No
+329201|Yes|20.51|Yes|No|No|30.0|0.0|Yes|Female|60-64|White|No|No|Fair|4.0|No|Yes|No
+754090|No|27.61|Yes|No|No|10.0|0.0|No|Female|50-54|White|No|Yes|Good|6.0|No|No|No
+656175|No|27.12|Yes|No|No|0.0|0.0|No|Male|75-79|White|No|Yes|Excellent|8.0|No|No|Yes
+654060|No|20.12|No|No|No|0.0|0.0|No|Female|30-34|Hispanic|No|No|Excellent|7.0|No|No|No
+387939|Yes|26.63|Yes|No|No|0.0|0.0|No|Male|75-79|White|No|No|Excellent|7.0|No|No|Yes
+296877|No|22.92|Yes|No|No|0.0|0.0|No|Female|80 or older|Hispanic|No|Yes|Very good|6.0|No|No|No
+865398|Yes|19.77|Yes|No|No|30.0|0.0|Yes|Male|65-69|White|Yes|No|Poor|8.0|No|Yes|No
+459988|Yes|31.38|No|No|No|0.0|0.0|No|Male|80 or older|White|No|No|Good|7.0|No|No|No
+631401|No|59.23|No|No|No|2.0|0.0|Yes|Female|50-54|Black|No|No|Fair|6.0|No|No|No
+864183|No|25.46|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Good|6.0|No|No|No
+803586|No|29.53|No|No|No|0.0|2.0|No|Male|50-54|White|No|Yes|Very good|6.0|No|No|No
+600864|No|24.03|Yes|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Excellent|7.0|No|No|No
+242900|No|32.61|No|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Very good|9.0|Yes|No|No
+703811|No|30.47|Yes|No|No|0.0|15.0|No|Female|55-59|Hispanic|No|Yes|Very good|7.0|Yes|No|No
+415604|No|33.89|No|Yes|No|5.0|0.0|No|Female|60-64|White|No|Yes|Very good|8.0|No|No|No
+263309|No|29.76|Yes|No|Yes|30.0|30.0|Yes|Female|40-44|White|Yes|Yes|Poor|4.0|No|No|No
+856938|No|19.37|No|No|Yes|1.0|0.0|No|Female|80 or older|White|No|Yes|Very good|6.0|No|No|No
+686492|Yes|24.13|No|No|No|0.0|0.0|No|Male|45-49|Hispanic|Yes|Yes|Poor|9.0|No|No|No
+778127|No|26.83|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|6.0|No|No|No
+304513|No|66.9|No|No|No|0.0|10.0|Yes|Female|40-44|White|No|Yes|Fair|7.0|No|No|No
+708842|No|30.41|Yes|No|No|0.0|0.0|No|Male|40-44|Black|No|Yes|Very good|4.0|No|No|No
+619343|No|27.34|Yes|No|No|2.0|0.0|No|Female|40-44|White|No|No|Fair|8.0|Yes|No|No
+502295|No|24.41|Yes|No|Yes|0.0|0.0|No|Male|60-64|White|No|No|Very good|7.0|No|No|No
+821881|No|33.07|No|No|No|0.0|2.0|No|Female|25-29|White|No|Yes|Excellent|6.0|No|No|No
+761601|No|32.61|No|No|No|0.0|0.0|No|Female|65-69|White|No|No|Excellent|7.0|No|No|No
+283831|No|25.83|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|7.0|No|No|No
+867566|Yes|28.89|No|No|No|0.0|10.0|No|Male|30-34|White|No|Yes|Very good|5.0|Yes|No|No
+870021|No|26.39|Yes|Yes|No|0.0|0.0|No|Female|70-74|White|No|No|Very good|8.0|No|No|No
+624371|No|28.13|Yes|No|No|0.0|3.0|No|Male|25-29|American Indian/Alaskan Native|No|No|Good|16.0|Yes|No|No
+473504|No|21.52|No|No|No|0.0|5.0|No|Male|25-29|White|No|Yes|Excellent|7.0|No|No|No
+564893|No|35.87|No|No|No|0.0|5.0|No|Male|55-59|White|No|Yes|Good|6.0|No|No|No
+406945|No|39.16|No|Yes|No|0.0|0.0|No|Male|50-54|Black|No|Yes|Good|8.0|Yes|No|No
+227643|Yes|28.13|Yes|No|No|1.0|2.0|No|Male|75-79|Black|Yes|Yes|Poor|7.0|No|No|No
+533013|No|27.6|Yes|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Excellent|6.0|No|No|No
+123394|No|40.18|No|Yes|No|0.0|0.0|No|Male|25-29|White|No|Yes|Excellent|7.0|No|No|No
+867397|No|32.98|Yes|No|No|0.0|0.0|No|Male|45-49|White|No|No|Good|8.0|No|No|No
+386467|No|26.31|Yes|No|No|0.0|10.0|Yes|Female|65-69|White|No|No|Good|6.0|No|No|No
+690144|No|32.98|Yes|No|No|0.0|0.0|No|Male|40-44|White|No, borderline diabetes|Yes|Good|9.0|No|No|No
+719892|No|22.6|No|No|No|30.0|0.0|Yes|Female|80 or older|White|No|No|Good|8.0|No|No|Yes
+879228|No|23.69|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Very good|6.0|No|No|No
+441412|No|23.3|Yes|No|No|15.0|15.0|No|Female|55-59|White|No|Yes|Fair|5.0|No|No|No
+317021|No|23.4|No|No|No|0.0|1.0|No|Female|65-69|White|Yes|Yes|Excellent|8.0|No|No|No
+215772|No|35.15|Yes|No|No|0.0|0.0|No|Male|70-74|White|Yes|Yes|Good|8.0|No|No|No
+313824|No|26.78|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|Yes
+134374|No|25.11|Yes|Yes|No|1.0|20.0|No|Male|18-24|White|No|Yes|Very good|8.0|No|No|No
+814273|No|18.66|No|No|No|0.0|0.0|No|Female|65-69|Asian|No|Yes|Very good|9.0|No|No|No
+421041|Yes|23.91|Yes|No|Yes|27.0|1.0|No|Female|65-69|Black|No|Yes|Fair|5.0|No|No|No
+154509|No|32.19|No|No|No|0.0|25.0|No|Female|70-74|White|No|No|Good|4.0|No|No|No
+215268|No|29.37|No|Yes|No|0.0|0.0|No|Male|18-24|White|No|Yes|Very good|3.0|Yes|No|No
+676755|No|31.32|Yes|No|No|0.0|15.0|No|Female|60-64|White|No|No|Very good|8.0|No|No|No
+329890|No|29.23|No|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Very good|8.0|No|No|No
+270115|No|27.26|Yes|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Excellent|7.0|No|No|No
+329312|No|20.25|No|No|No|1.0|1.0|No|Female|30-34|White|No|Yes|Excellent|6.0|No|No|No
+476139|Yes|30.85|Yes|No|No|0.0|0.0|No|Male|75-79|White|No|Yes|Very good|7.0|No|No|No
+406907|Yes|23.75|Yes|No|No|0.0|0.0|Yes|Male|70-74|White|Yes|Yes|Very good|6.0|No|No|Yes
+496921|Yes|33.96|Yes|No|No|0.0|30.0|Yes|Male|55-59|Other|No|Yes|Fair|8.0|No|No|No
+302641|No|33.45|No|No|No|0.0|0.0|No|Male|45-49|Black|No|No|Good|4.0|No|No|No
+285458|No|29.3|No|Yes|No|0.0|0.0|No|Male|50-54|Hispanic|No|Yes|Good|8.0|No|No|No
+130717|Yes|20.81|No|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Good|7.0|No|No|No
+117771|No|28.29|No|No|No|0.0|0.0|Yes|Female|65-69|White|No|Yes|Good|7.0|No|No|No
+323783|No|31.89|No|Yes|No|5.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+297290|Yes|18.88|Yes|No|Yes|30.0|30.0|Yes|Female|45-49|White|No|No|Poor|5.0|Yes|Yes|No
+524041|No|27.67|No|No|No|0.0|0.0|No|Female|35-39|Hispanic|No|Yes|Excellent|7.0|No|No|No
+540718|Yes|30.41|No|No|No|0.0|0.0|No|Male|75-79|White|No|No|Very good|7.0|No|No|No
+349964|No|32.1|No|No|No|3.0|6.0|No|Male|60-64|White|No|Yes|Very good|6.0|No|No|No
+458121|No|24.56|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Good|8.0|No|No|No
+813029|No|22.38|No|No|No|0.0|10.0|No|Male|18-24|White|No|Yes|Very good|7.0|Yes|No|No
+350867|No|24.21|No|No|No|0.0|10.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+570206|No|28.06|Yes|Yes|No|0.0|15.0|No|Male|35-39|White|No|Yes|Good|1.0|No|No|No
+817061|No|29.42|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|12.0|No|No|No
+583445|No|25.15|No|No|No|8.0|0.0|No|Female|30-34|Hispanic|No|Yes|Good|8.0|No|No|No
+611615|No|35.44|No|No|No|0.0|0.0|No|Male|50-54|Black|No|Yes|Excellent|6.0|No|No|No
+322039|Yes|34.04|No|No|No|2.0|10.0|No|Male|70-74|White|Yes|Yes|Fair|6.0|No|No|No
+457786|No|22.65|Yes|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+857511|No|23.44|Yes|No|No|10.0|0.0|No|Female|30-34|Other|No|Yes|Good|5.0|No|No|No
+400972|No|35.43|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Good|6.0|No|No|No
+701582|No|25.51|No|No|No|0.0|0.0|No|Female|50-54|Hispanic|No|Yes|Excellent|8.0|No|No|No
+879862|No|26.63|No|No|No|4.0|0.0|No|Female|65-69|White|Yes (during pregnancy)|Yes|Good|9.0|No|No|No
+261723|Yes|31.47|No|No|No|10.0|0.0|Yes|Female|75-79|Black|Yes|Yes|Fair|6.0|No|No|No
+383740|No|33.23|Yes|No|No|0.0|0.0|No|Male|18-24|Hispanic|No|No|Good|8.0|No|No|No
+307710|No|38.47|No|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Good|8.0|Yes|No|No
+315605|Yes|26.5|Yes|No|No|0.0|0.0|Yes|Male|65-69|White|No|Yes|Good|5.0|No|No|No
+809868|No|24.69|No|No|No|0.0|0.0|No|Female|50-54|Hispanic|No|Yes|Good|8.0|No|No|No
+632544|No|26.63|No|No|No|0.0|7.0|No|Male|25-29|Black|No|Yes|Very good|6.0|No|No|No
+517784|No|27.97|Yes|No|No|0.0|16.0|No|Male|55-59|White|No|Yes|Very good|12.0|Yes|No|No
+820025|No|27.46|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|8.0|No|No|No
+482124|No|38.37|No|No|No|0.0|7.0|No|Female|30-34|White|No|Yes|Very good|7.0|No|No|No
+245954|No|25.0|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Excellent|8.0|No|No|No
+271468|No|25.84|No|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Excellent|8.0|No|No|No
+348670|No|40.6|Yes|No|No|2.0|6.0|No|Male|70-74|White|No|Yes|Good|8.0|No|No|No
+199527|No|43.7|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|8.0|No|No|No
+772388|No|28.29|Yes|Yes|No|0.0|7.0|No|Female|55-59|White|No|No|Very good|7.0|No|No|No
+815571|Yes|20.9|No|No|No|0.0|1.0|No|Female|45-49|White|No|Yes|Very good|8.0|No|No|No
+100503|No|34.16|Yes|No|No|0.0|0.0|No|Female|60-64|White|No, borderline diabetes|Yes|Good|8.0|No|No|No
+514062|No|23.4|No|Yes|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|No|No
+373412|No|21.79|No|No|No|0.0|0.0|No|Female|40-44|Hispanic|No|Yes|Fair|1.0|Yes|No|No
+873310|No|30.04|No|No|No|0.0|10.0|No|Female|50-54|Black|No|Yes|Very good|9.0|No|No|No
+354410|No|20.92|Yes|No|No|0.0|0.0|No|Male|65-69|Black|No|Yes|Very good|8.0|No|No|No
+552753|No|26.15|No|Yes|No|1.0|0.0|No|Male|60-64|White|No|Yes|Excellent|9.0|No|No|No
+588229|No|22.46|No|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Excellent|8.0|No|No|No
+142699|No|26.52|No|No|No|0.0|0.0|No|Female|45-49|Hispanic|No|Yes|Good|7.0|No|No|No
+146129|No|17.22|No|No|No|0.0|0.0|No|Male|18-24|Hispanic|No|Yes|Excellent|8.0|No|No|No
+129738|No|30.41|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Excellent|8.0|No|No|Yes
+465571|No|25.51|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+755916|Yes|23.38|Yes|Yes|No|3.0|2.0|No|Female|55-59|White|No|No|Fair|7.0|Yes|No|No
+162093|No|19.14|No|No|No|0.0|7.0|No|Female|18-24|White|No|Yes|Very good|6.0|No|No|No
+507943|Yes|35.95|Yes|No|No|10.0|5.0|No|Male|60-64|White|Yes|Yes|Poor|7.0|No|No|No
+389439|No|28.35|No|No|Yes|20.0|0.0|No|Female|80 or older|White|Yes|Yes|Fair|8.0|No|No|No
+709111|No|31.09|No|No|No|0.0|0.0|No|Female|60-64|White|No|No|Very good|4.0|No|No|No
+716696|No|27.12|Yes|No|No|0.0|0.0|Yes|Male|80 or older|White|No|Yes|Fair|8.0|No|No|No
+821967|No|27.12|Yes|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Good|5.0|No|No|No
+595184|No|38.01|No|No|No|15.0|0.0|Yes|Female|65-69|White|Yes|No|Fair|6.0|No|No|Yes
+611576|No|36.49|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Good|6.0|No|No|No
+629139|No|32.92|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Very good|8.0|No|No|No
+189355|No|31.19|Yes|No|No|0.0|30.0|No|Male|35-39|White|No|Yes|Fair|6.0|No|No|No
+586257|No|42.57|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Very good|6.0|No|No|No
+547338|No|21.46|No|No|No|0.0|3.0|No|Female|18-24|White|No|Yes|Good|7.0|No|No|No
+359758|No|23.57|No|No|No|0.0|4.0|No|Female|25-29|White|No|Yes|Very good|9.0|No|No|No
+895673|No|27.46|No|No|No|2.0|2.0|No|Female|40-44|White|No|Yes|Very good|8.0|No|No|No
+417820|No|29.18|No|No|No|0.0|5.0|No|Female|35-39|Hispanic|No|No|Very good|6.0|Yes|No|No
+379384|No|22.96|No|No|No|30.0|5.0|No|Male|30-34|White|No|Yes|Good|7.0|No|No|No
+330695|No|28.32|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|7.0|No|No|No
+709435|No|21.63|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Good|8.0|No|No|No
+803439|No|24.37|No|No|No|0.0|0.0|Yes|Female|60-64|White|No|No|Very good|6.0|No|No|No
+757556|No|25.09|No|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Excellent|7.0|No|No|No
+482895|No|30.0|No|No|No|10.0|10.0|No|Female|40-44|Hispanic|No|Yes|Excellent|6.0|Yes|No|No
+223499|No|24.28|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|7.0|No|No|No
+180852|No|33.45|Yes|No|No|0.0|0.0|No|Male|70-74|White|No, borderline diabetes|Yes|Very good|7.0|No|No|No
+155402|No|29.05|No|No|No|0.0|0.0|No|Male|18-24|American Indian/Alaskan Native|No|Yes|Very good|8.0|No|No|No
+556674|No|19.14|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+740660|No|37.31|Yes|No|No|15.0|0.0|No|Female|75-79|White|No|No|Good|8.0|No|No|No
+359775|No|35.24|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Very good|6.0|Yes|No|No
+795734|Yes|17.85|Yes|No|Yes|2.0|0.0|Yes|Female|65-69|White|No|No|Fair|12.0|No|No|Yes
+141489|No|37.2|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Good|6.0|No|No|No
+822078|No|32.28|Yes|No|No|6.0|30.0|No|Female|18-24|White|No|Yes|Good|6.0|Yes|No|No
+421496|No|31.95|Yes|No|No|0.0|0.0|No|Female|65-69|Black|No|Yes|Good|7.0|No|No|No
+163335|No|30.68|Yes|No|No|1.0|4.0|No|Male|35-39|Hispanic|No|Yes|Fair|8.0|No|No|No
+710997|No|24.69|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Excellent|5.0|No|No|No
+843503|Yes|24.37|No|No|No|2.0|0.0|No|Male|60-64|White|No|Yes|Excellent|7.0|No|No|No
+332724|Yes|31.48|No|Yes|Yes|20.0|20.0|Yes|Male|65-69|Black|No|No|Fair|7.0|Yes|No|No
+613039|No|26.17|No|No|No|2.0|0.0|No|Male|70-74|White|No|Yes|Very good|8.0|No|No|Yes
+449371|Yes|46.0|No|No|No|15.0|0.0|Yes|Female|50-54|Black|Yes|No|Fair|8.0|Yes|Yes|No
+260412|No|41.0|No|No|No|30.0|30.0|Yes|Female|40-44|White|No|No|Fair|14.0|Yes|No|No
+825777|No|32.5|Yes|No|No|0.0|0.0|No|Male|60-64|White|Yes|Yes|Fair|8.0|No|No|No
+152624|Yes|32.28|Yes|No|No|0.0|0.0|No|Male|50-54|White|Yes|No|Very good|7.0|No|No|No
+487815|No|19.37|No|No|No|0.0|2.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+771482|No|25.77|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Excellent|7.0|No|No|No
+725747|No|22.43|Yes|No|No|0.0|0.0|No|Male|75-79|Other|Yes|Yes|Good|8.0|No|No|No
+769657|No|24.28|Yes|No|No|5.0|2.0|No|Female|40-44|Hispanic|No|Yes|Fair|5.0|Yes|No|No
+168060|No|22.46|No|No|No|3.0|3.0|No|Female|55-59|White|No|Yes|Good|7.0|No|No|No
+821193|No|40.17|No|No|No|15.0|5.0|Yes|Female|60-64|White|Yes|No|Fair|4.0|No|No|No
+439013|No|23.83|Yes|No|No|0.0|0.0|No|Female|60-64|Other|No|Yes|Very good|7.0|No|No|No
+483319|No|34.67|No|No|No|0.0|0.0|No|Male|45-49|White|Yes|Yes|Good|7.0|No|No|No
+480861|No|32.55|Yes|No|No|0.0|0.0|No|Male|60-64|Hispanic|No|Yes|Excellent|6.0|No|No|No
+185004|No|29.95|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|6.0|No|No|No
+264514|No|25.06|No|Yes|No|0.0|3.0|No|Male|35-39|White|No|Yes|Excellent|6.0|Yes|No|No
+762093|No|19.46|No|Yes|No|0.0|10.0|No|Female|35-39|Black|No|No|Good|8.0|No|No|No
+233544|No|27.44|Yes|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Good|4.0|No|No|No
+140023|No|29.7|No|No|No|2.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|Yes|No|No
+670184|No|29.53|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|8.0|No|No|No
+646534|No|19.79|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Excellent|7.0|No|No|No
+647785|No|19.74|No|No|No|1.0|0.0|No|Female|35-39|White|No|Yes|Excellent|6.0|Yes|No|No
+663797|Yes|25.23|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|No|Very good|7.0|No|No|No
+852276|No|20.01|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Excellent|8.0|No|No|No
+668128|No|37.31|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|No|Very good|8.0|No|No|No
+857128|No|25.1|No|No|No|2.0|2.0|No|Male|18-24|White|No|Yes|Good|7.0|Yes|No|No
+308009|No|31.78|No|No|No|0.0|2.0|No|Male|30-34|White|No|Yes|Very good|1.0|No|No|No
+198210|No|29.18|No|No|No|0.0|3.0|No|Female|75-79|American Indian/Alaskan Native|No|Yes|Very good|6.0|No|No|No
+714110|No|33.45|No|No|No|0.0|0.0|No|Female|25-29|Black|No|Yes|Excellent|6.0|Yes|No|No
+781972|No|28.37|Yes|No|No|1.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+268812|No|23.4|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Excellent|9.0|No|No|No
+729472|No|26.45|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|8.0|No|No|No
+295656|No|25.32|Yes|No|No|0.0|0.0|No|Female|50-54|White|No|Yes|Good|6.0|No|No|No
+155766|Yes|17.97|Yes|No|No|0.0|0.0|No|Female|70-74|Other|No|No|Very good|6.0|No|No|No
+780897|No|35.95|No|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Very good|8.0|Yes|No|No
+888142|No|21.94|Yes|Yes|No|0.0|0.0|No|Male|55-59|White|No|No|Very good|7.0|No|No|No
+170046|No|27.76|Yes|No|No|14.0|30.0|Yes|Female|50-54|White|Yes|No|Fair|7.0|No|No|No
+681955|No|31.95|No|No|No|12.0|5.0|No|Female|30-34|White|No|Yes|Very good|6.0|No|No|No
+650015|No|29.18|No|No|No|0.0|15.0|No|Female|60-64|White|No|Yes|Good|10.0|No|No|Yes
+566081|No|28.53|Yes|No|No|0.0|5.0|No|Female|55-59|White|No|No|Excellent|6.0|No|No|No
+320873|No|28.25|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|6.0|Yes|No|No
+547009|Yes|23.67|No|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Very good|6.0|No|No|Yes
+572666|No|43.9|Yes|No|No|0.0|3.0|No|Female|70-74|White|No|Yes|Excellent|8.0|Yes|No|No
+891201|No|21.3|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|No|No
+147198|No|37.31|No|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Good|7.0|No|No|No
+536310|No|27.15|No|No|No|3.0|0.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|No|Yes
+760831|No|23.01|Yes|No|No|0.0|25.0|No|Male|70-74|White|No|Yes|Fair|7.0|No|No|No
+166664|No|22.5|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|No|Yes
+855251|No|25.0|No|No|No|1.0|3.0|No|Male|18-24|White|No|Yes|Good|7.0|Yes|No|No
+887938|No|30.68|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|7.0|Yes|No|No
+100680|No|23.49|Yes|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Good|8.0|No|No|No
+885741|No|25.82|Yes|No|No|30.0|0.0|No|Male|60-64|Hispanic|No|No|Fair|8.0|No|No|No
+727234|No|39.54|No|No|No|30.0|30.0|Yes|Female|45-49|Black|No|Yes|Fair|7.0|Yes|No|No
+856153|No|24.46|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|8.0|No|No|No
+387072|No|26.04|No|Yes|No|0.0|5.0|No|Male|50-54|White|No|Yes|Excellent|6.0|No|No|Yes
+302519|Yes|27.67|Yes|No|No|20.0|0.0|Yes|Female|80 or older|White|Yes|No|Poor|5.0|Yes|No|No
+597471|No|31.75|Yes|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Very good|6.0|No|No|No
+282683|No|25.09|No|No|No|0.0|5.0|No|Male|18-24|White|No|Yes|Excellent|7.0|No|No|No
+424352|No|25.83|Yes|No|No|2.0|2.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+845290|No|23.91|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|7.0|No|No|Yes
+888938|No|27.81|No|No|No|0.0|0.0|No|Female|70-74|Black|No|Yes|Very good|7.0|No|No|No
+512576|No|28.32|No|No|No|0.0|0.0|Yes|Female|75-79|White|No|Yes|Excellent|8.0|No|No|No
+777698|No|23.75|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|6.0|No|No|No
+344896|No|24.37|Yes|No|No|5.0|5.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+345879|No|28.94|Yes|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Excellent|7.0|No|No|No
+781217|Yes|30.52|No|No|No|5.0|20.0|No|Male|70-74|White|No|Yes|Fair|8.0|No|No|No
+835222|No|26.61|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+434730|No|29.29|Yes|No|No|2.0|7.0|No|Female|35-39|Hispanic|No|No|Good|7.0|No|No|No
+106870|No|23.44|No|No|No|0.0|0.0|No|Male|30-34|Black|No|No|Very good|5.0|No|No|No
+398879|No|25.42|No|No|No|2.0|3.0|No|Female|70-74|White|No|Yes|Good|8.0|Yes|No|Yes
+444517|No|30.68|Yes|No|No|3.0|0.0|No|Male|18-24|Hispanic|No|Yes|Good|8.0|No|No|No
+613101|No|31.38|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|8.0|No|No|No
+770705|No|31.89|No|No|No|2.0|10.0|No|Female|55-59|White|No|Yes|Good|7.0|No|No|No
+704437|No|21.31|No|Yes|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|No|No
+369985|No|26.45|No|No|No|0.0|0.0|No|Male|45-49|Black|Yes|Yes|Excellent|6.0|No|No|No
+214920|No|24.96|No|No|No|0.0|2.0|No|Female|50-54|White|Yes (during pregnancy)|Yes|Very good|6.0|No|No|No
+828804|No|22.89|Yes|Yes|No|0.0|30.0|No|Female|40-44|Black|No|No|Excellent|7.0|No|No|No
+641936|No|33.8|No|No|No|0.0|0.0|No|Male|55-59|White|Yes|Yes|Good|6.0|No|No|Yes
+301099|No|54.79|Yes|No|No|2.0|5.0|No|Female|35-39|White|No|Yes|Very good|7.0|No|No|No
+172671|No|27.12|No|Yes|No|2.0|0.0|No|Male|18-24|White|No|No|Excellent|9.0|No|No|No
+395387|No|29.29|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Excellent|6.0|No|No|No
+517636|No|26.96|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Excellent|7.0|No|No|No
+184222|No|22.5|Yes|No|No|0.0|0.0|No|Male|25-29|White|No|Yes|Very good|9.0|No|No|No
+224332|Yes|47.83|Yes|No|No|30.0|0.0|Yes|Female|80 or older|White|No|No|Poor|10.0|Yes|No|No
+711499|No|26.45|Yes|No|No|2.0|5.0|No|Female|30-34|Hispanic|No|Yes|Very good|5.0|No|No|No
+557959|Yes|22.82|No|No|No|0.0|0.0|No|Male|75-79|White|No|Yes|Very good|7.0|No|No|Yes
+635876|No|27.99|No|No|No|0.0|0.0|No|Female|25-29|White|No|Yes|Excellent|9.0|No|No|No
+825177|No|19.26|Yes|No|No|0.0|30.0|No|Female|70-74|White|No|Yes|Excellent|4.0|Yes|No|No
+327579|No|31.19|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Excellent|9.0|No|No|No
+352806|No|25.8|Yes|No|No|3.0|0.0|No|Male|45-49|White|No|Yes|Good|6.0|No|No|No
+236858|No|24.39|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|8.0|No|No|No
+255754|No|28.13|No|No|No|0.0|0.0|No|Male|80 or older|White|Yes|Yes|Good|7.0|No|No|Yes
+397712|No|24.41|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+825466|No|28.63|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+849890|Yes|29.76|Yes|No|No|0.0|0.0|No|Male|70-74|White|Yes|Yes|Good|8.0|No|No|Yes
+328887|No|20.55|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Very good|7.0|No|No|No
+701403|No|19.97|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|7.0|No|No|No
+484308|No|21.26|Yes|No|No|0.0|10.0|No|Female|50-54|White|No|Yes|Excellent|7.0|No|No|No
+217275|No|28.97|No|No|No|1.0|0.0|No|Female|65-69|White|No|Yes|Excellent|6.0|No|No|No
+487880|No|29.26|No|No|No|5.0|25.0|Yes|Female|50-54|Hispanic|No|No|Fair|6.0|Yes|No|No
+833532|No|23.49|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Excellent|6.0|No|No|No
+203768|No|29.41|No|No|No|0.0|0.0|No|Female|70-74|White|No, borderline diabetes|Yes|Very good|7.0|No|No|No
+356272|No|41.68|No|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Good|8.0|No|No|No
+152098|No|22.46|No|No|No|0.0|3.0|No|Female|25-29|White|No|Yes|Excellent|7.0|Yes|No|No
+402930|No|30.41|No|No|No|1.0|3.0|No|Female|40-44|White|No|Yes|Good|8.0|No|No|No
+180196|No|28.34|No|No|No|2.0|3.0|No|Female|18-24|White|No|Yes|Very good|6.0|No|No|No
+771709|No|19.37|No|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Excellent|8.0|No|No|No
+244062|No|21.52|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|7.0|No|No|No
+503731|No|38.62|Yes|Yes|No|0.0|0.0|No|Male|55-59|White|Yes|Yes|Good|7.0|No|No|No
+158167|No|27.37|No|No|No|0.0|5.0|No|Male|80 or older|White|No|Yes|Excellent|6.0|No|No|No
+325821|No|26.88|No|No|No|4.0|0.0|No|Male|65-69|White|No|Yes|Excellent|7.0|No|No|No
+612229|No|27.4|No|No|No|7.0|0.0|No|Female|60-64|Asian|No|No|Very good|8.0|No|No|No
+641523|No|19.3|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+333052|No|23.39|Yes|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Excellent|7.0|No|No|No
+294266|No|21.26|No|No|No|0.0|4.0|No|Female|25-29|Asian|No|Yes|Excellent|8.0|No|No|No
+781000|No|21.29|No|No|No|0.0|20.0|No|Male|18-24|Other|No|Yes|Good|8.0|No|No|No
+721816|No|18.84|Yes|Yes|No|0.0|30.0|No|Female|35-39|White|No|Yes|Good|5.0|No|No|No
+264469|No|22.81|Yes|No|No|0.0|5.0|Yes|Male|60-64|Black|No|Yes|Fair|7.0|Yes|No|No
+113556|No|32.61|No|No|No|0.0|0.0|Yes|Female|70-74|White|No, borderline diabetes|Yes|Good|8.0|Yes|No|Yes
+316327|No|35.56|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Good|6.0|No|No|No
+840656|No|28.57|No|No|No|3.0|0.0|No|Female|25-29|Hispanic|No|Yes|Excellent|8.0|No|No|No
+407824|No|||No|No|0.0|0.0|No||45-49|White|No|Yes|Excellent|9.0|No|No|No
+309782|No|25.69|No|No|No|0.0|0.0|Yes|Male|70-74|White|No|Yes|Excellent|7.0|No|No|No
+516376|No|25.1|Yes|Yes|No|14.0|0.0|No|Male|60-64|White|No|No|Good|7.0|No|No|No
+380227|No|32.23|Yes|No|No|0.0|2.0|No|Female|55-59|White|No|No|Good|7.0|No|No|No
+207449|No|32.28|No|Yes|No|0.0|25.0|No|Female|55-59|White|No|Yes|Excellent|6.0|No|No|No
+708212|No|34.7|No|No|No|0.0|0.0|No|Female|30-34|Hispanic|No, borderline diabetes|Yes|Excellent|8.0|No|No|No
+338527|No|31.47|No|No|No|0.0|0.0|No|Female|45-49|White|No|No|Good|6.0|Yes|No|No
+844507|No|25.8|No|No|No|0.0|0.0|No|Male|55-59|Black|No|Yes|Excellent|6.0|No|No|No
+331843|No|32.5|Yes|No|No|0.0|1.0|No|Male|35-39|White|No|Yes|Excellent|6.0|No|No|No
+338653|No|33.59|No|No|No|0.0|0.0|Yes|Female|75-79|White|Yes|No|Fair|5.0|No|No|No
+444808|No|25.11|No|No|No|0.0|0.0|No|Male|30-34|Other|No|Yes|Excellent|4.0|No|No|No
+255137|No|23.67|Yes|No|No|5.0|1.0|No|Male|65-69|Black|Yes|Yes|Good|6.0|No|No|No
+736826|No|29.76|No|Yes|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|8.0|No|No|No
+668744|Yes|25.53|Yes|No|No|30.0|30.0|No|Female|55-59|White|No|No|Poor|8.0|No|No|No
+658469|No|33.67|No|No|No|0.0|7.0|No|Male|30-34|Black|No|Yes|Good|6.0|No|No|No
+814967|No|33.52|No|No|No|0.0|0.0|No|Male|65-69|Hispanic|Yes|No|Very good|7.0|No|No|No
+165525|No|25.23|No|No|No|17.0|15.0|No|Female|75-79|White|No|Yes|Fair|7.0|Yes|No|No
+454668|No|42.97|No|No|No|3.0|0.0|No|Female|50-54|Black|No|Yes|Good|7.0|No|No|No
+569650|Yes|26.96|Yes|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Good|8.0|No|No|Yes
+125491|No|21.46|No|No|No|0.0|3.0|No|Female|45-49|Black|No|No|Fair|6.0|No|No|No
+190015|No|50.21|No|No|No|28.0|14.0|Yes|Female|50-54|Black|No, borderline diabetes|No|Fair|5.0|No|No|No
+410644|No|26.32|Yes|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|8.0|No|No|No
+423598|No|27.12|Yes|No|No|1.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+403119|No|27.62|Yes|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|8.0|No|No|Yes
+533696|No|26.39|No|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Excellent|8.0|No|No|No
+853701|No|22.33|No|No|No|0.0|0.0|No|Female|35-39|Asian|No|No|Excellent|7.0|No|No|No
+460775|Yes|26.08|No|No|No|0.0|0.0|No|Male|75-79|Other|No|Yes|Good|8.0|No|Yes|Yes
+779853|No|27.89|No|No|No|0.0|0.0|No|Male|65-69|Other|No|Yes|Excellent|8.0|No|No|No
+401085|No|21.95|Yes|No|No|1.0|0.0|No|Female|35-39|White|No|Yes|Excellent|7.0|No|No|No
+648591|No|20.18|No|No|No|3.0|0.0|No|Female|55-59|White|Yes (during pregnancy)|Yes|Excellent|8.0|No|No|No
+718686|No|25.19|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|5.0|No|No|No
+428491|No|21.63|No|No|No|0.0|0.0|No|Female|60-64|White|No|No|Very good|8.0|No|No|No
+862621|No|45.73|Yes|No|No|0.0|5.0|No|Female|25-29|White|No|Yes|Very good|7.0|No|No|No
+619956|Yes|25.39|Yes|No|No|30.0|0.0|Yes|Male|60-64|Other|No|Yes|Excellent|8.0|Yes|No|No
+555807|No|28.27|Yes|No|No|0.0|1.0|No|Male|30-34|Hispanic|No|Yes|Good|6.0|No|No|No
+103221|No|31.89|No|No|No|4.0|0.0|No|Female|65-69|Asian|Yes|Yes|Very good|8.0|No|No|No
+394144|No|33.91|Yes|No|No|10.0|0.0|No|Male|80 or older|White|No|No|Very good|5.0|No|No|No
+570603|No|28.89|No|No|No|0.0|0.0|No|Male|60-64|White|Yes|Yes|Very good|7.0|No|No|Yes
+161968|No|29.53|No|No|No|3.0|2.0|No|Female|25-29|White|No|Yes|Good|9.0|No|No|No
+297854|No|29.66|Yes|No|No|30.0|0.0|Yes|Male|70-74|White|No|No|Good|8.0|No|No|No
+868782|Yes|30.52|No|No|No|0.0|0.0|No|Male|75-79|White|No|No|Good|8.0|No|No|Yes
+881382|No|44.3|No|No|No|2.0|0.0|No|Male|35-39|Other|No|Yes|Excellent|7.0|No|No|No
+404902|No|28.13|Yes|No|No|0.0|0.0|No|Male|35-39|Other|No|Yes|Excellent|6.0|No|No|No
+532684|No|32.08|Yes|No|No|0.0|0.0|No|Male|25-29|Asian|No|Yes|Good|8.0|No|No|No
+393958|Yes|26.54|Yes|No|No|30.0|0.0|Yes|Male|75-79|White|Yes|No|Poor|8.0|No|No|No
+704867|No|20.63|No|No|No|2.0|3.0|No|Female|50-54|White|No|Yes|Very good|8.0|No|No|No
+574502|No|28.06|No|No|No|20.0|20.0|No|Male|60-64|Hispanic|Yes|No|Fair|8.0|No|No|No
+180440|No|34.01|No|Yes|No|0.0|0.0|No|Male|50-54|White|No|Yes|Very good|8.0|No|No|No
+157339|No|20.12|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|12.0|No|No|No
+702749|No|21.95|No|No|No|0.0|15.0|No|Female|25-29|White|No|Yes|Very good|7.0|No|No|No
+841798|No|28.89|No|No|No|0.0|5.0|No|Female|65-69|White|Yes|Yes|Fair|7.0|No|No|No
+864455|No|25.85|No|No|No|3.0|3.0|No|Male|50-54|Hispanic|No|Yes|Excellent|6.0|Yes|No|No
+448356|No|30.68|No|No|No|14.0|30.0|No|Male|40-44|White|No|Yes|Excellent|8.0|Yes|No|No
+123450|No|45.43|No|No|No|0.0|0.0|No|Male|45-49|White|Yes|No|Fair|7.0|Yes|No|Yes
+865743|No|46.87|Yes|No|No|0.0|1.0|No|Female|50-54|White|No|Yes|Very good|7.0|No|No|No
+292586|No|27.71|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Excellent|8.0|No|No|No
+762769|No|25.75|No|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Very good|7.0|Yes|No|No
+229819|No|23.44|No|No|No|0.0|0.0|No|Female|80 or older|White|Yes|No|Very good|8.0|No|No|No
+458881|No|30.42|No|No|No|0.0|0.0|No|Male|75-79|White|No|No|Very good|8.0|No|No|No
+301385|No|30.42|Yes|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Very good|7.0|No|No|No
+789509|No|20.67|No|No|No|1.0|1.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+213062|No|46.99|No|No|No|10.0|15.0|Yes|Female|35-39|White|No|Yes|Good|6.0|No|No|No
+270199|No|25.61|No|No|No|1.0|4.0|No|Female|50-54|White|Yes (during pregnancy)|Yes|Very good|5.0|Yes|No|No
+128712|No|38.39|No|No|No|0.0|3.0|No|Female|40-44|White|No|No|Good|6.0|Yes|No|No
+530197|No|39.33|No|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Very good|8.0|No|No|No
+876377|No|26.93|Yes|Yes|No|0.0|0.0|No|Female|40-44|Black|No|No|Very good|6.0|No|No|No
+443695|No|32.77|No|No|No|0.0|30.0|No|Female|50-54|Black|No|No|Good|6.0|No|No|No
+316533|No|35.48|No|No|No|0.0|0.0|No|Female|45-49|Black|No|Yes|Fair|7.0|No|No|No
+447104|No|23.74|No|No|No|0.0|0.0|No|Female|50-54|White|No|Yes|Very good|7.0|No|No|No
+499643|No|28.89|No|No|No|0.0|0.0|No|Male|45-49|White|No|No|Excellent|7.0|No|No|No
+693139|No|30.43|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Very good|6.0|No|No|No
+363378|No|31.32|No|No|No|0.0|4.0|No|Female|45-49|White|No|Yes|Very good|6.0|No|No|No
+769513|No|30.41|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Very good|6.0|No|No|No
+308364|No|26.31|Yes|No|No|2.0|0.0|No|Female|80 or older|White|No|No|Good|6.0|Yes|No|No
+579854|No|21.46|No|No|No|3.0|0.0|No|Female|40-44|Asian|No|No|Good|7.0|No|No|No
+453345|Yes|29.41|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|No|Good|6.0|No|Yes|No
+112400|Yes|23.96|Yes|No|No|0.0|10.0|Yes|Female|65-69|White|No|No|Fair|12.0|No|No|No
+627206|No|29.29|Yes|Yes|No|0.0|10.0|No|Female|50-54|White|No|Yes|Very good|7.0|No|No|No
+348305|No|26.39|No|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|7.0|No|No|No
+633985|No|30.24|No|No|No|0.0|0.0|No|Female|40-44|Hispanic|No|No|Excellent|10.0|No|No|No
+262704|No|33.89|No|No|No|0.0|0.0|Yes|Female|75-79|White|Yes|No|Fair|8.0|Yes|No|No
+320325|No|27.34|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Good|6.0|No|No|No
+849863|No|38.52|Yes|No|No|0.0|30.0|No|Male|35-39|Hispanic|No|Yes|Good|7.0|No|No|No
+277143|No|30.04|Yes|No|No|15.0|5.0|No|Female|45-49|White|No|Yes|Fair|8.0|Yes|No|No
+184534|No|27.25|No|No|No|0.0|0.0|No|Female|55-59|Hispanic|No, borderline diabetes|Yes|Good|7.0|No|No|No
+249458|Yes|32.55|Yes|No|No|0.0|0.0|No|Male|60-64|White|Yes|Yes|Fair|5.0|No|Yes|No
+110670|No|27.44|No|Yes|No|0.0|0.0|No|Female|18-24|White|No|Yes|Excellent|9.0|No|No|No
+382646|No|30.68|No|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Very good|6.0|No|No|No
+454383|No|32.28|No|No|Yes|14.0|5.0|Yes|Female|50-54|American Indian/Alaskan Native|Yes|No|Fair|8.0|No|Yes|No
+363246|No|25.85|No|No|No|2.0|10.0|No|Female|18-24|White|No|Yes|Very good|8.0|No|No|No
+375198|No|24.13|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Very good|7.0|Yes|No|Yes
+209774|No|27.41|No|No|No|8.0|5.0|Yes|Female|70-74|Black|No|Yes|Good|8.0|No|No|No
+153451|No|26.63|Yes|No|No|0.0|0.0|No|Female|70-74|White|Yes|Yes|Good|7.0|No|No|No
+518692|No|29.05|Yes|No|No|7.0|0.0|No|Female|75-79|White|No|Yes|Very good|7.0|No|No|No
+294049|No|25.37|No|No|No|0.0|0.0|No|Male|55-59|White|Yes|Yes|Good|7.0|No|No|No
+645532|No|24.81|Yes|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Very good|7.0|No|No|No
+459317|No|45.49|No|No|No|7.0|10.0|No|Female|45-49|White|No, borderline diabetes|Yes|Fair|8.0|Yes|No|No
+618193|No|23.03|No|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+175067|No|24.56|No|No|No|6.0|20.0|No|Female|25-29|White|No|Yes|Very good|6.0|No|No|No
+610665|No|30.27|Yes|No|No|30.0|0.0|Yes|Female|50-54|White|No|Yes|Excellent|4.0|No|No|No
+865278|No|26.5|No|No|No|0.0|7.0|No|Male|35-39|White|No|Yes|Very good|7.0|No|No|No
+438132|No|25.79|No|No|No|7.0|7.0|No|Female|18-24|White|No|Yes|Excellent|8.0|No|No|No
+254335|No|29.12|Yes|No|No|0.0|30.0|No|Female|35-39|White|No|Yes|Excellent|7.0|No|No|No
+246564|No|26.5|Yes|No|No|5.0|20.0|No|Male|25-29|White|No|Yes|Fair|6.0|No|No|No
+670596|No|29.29|Yes|No|No|0.0|10.0|No|Female|30-34|Hispanic|No|Yes|Fair|7.0|No|No|No
+277755|No|21.52|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|6.0|No|No|No
+880151|No|27.26|No|No|No|3.0|0.0|No|Male|65-69|White|No|Yes|Excellent|10.0|No|No|Yes
+536237|Yes|25.19|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Good|8.0|No|No|No
+381930|No|28.7|Yes|No|No|30.0|30.0|No|Male|35-39|White|No|Yes|Very good|4.0|No|No|No
+329968|No|19.84|No|No|No|0.0|0.0|No|Female|40-44|White|No|No|Very good|6.0|No|No|No
+730326|No|26.61|No|No|No|3.0|0.0|No|Female|60-64|White|No|Yes|Good|7.0|Yes|No|No
+652806|No|27.37|No|No|No|0.0|0.0|No|Male|60-64|Hispanic|No|Yes|Excellent|5.0|No|No|No
+819483|No|38.74|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|8.0|No|No|No
+387128|No|27.12|No|No|No|3.0|0.0|No|Male|60-64|White|No|Yes|Very good|6.0|Yes|No|No
+562738|No|25.97|No|No|No|0.0|0.0|No|Female|75-79|White|No|No|Good|8.0|No|No|No
+611233|No|35.95|Yes|No|No|3.0|2.0|Yes|Male|25-29|White|No|Yes|Good|7.0|No|No|No
+836656|Yes|27.26|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|6.0|No|No|No
+804968|No|25.5|No|Yes|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|8.0|No|No|No
+609827|No|27.46|Yes|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Fair|6.0|No|No|No
+648316|No|23.63|No|No|No|0.0|0.0|No|Male|80 or older|White|No|No|Very good|6.0|No|No|No
+361850|No|28.29|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Very good|8.0|No|No|Yes
+233433|No|31.8|Yes|No|No|8.0|0.0|No|Female|55-59|Black|Yes|Yes|Very good|16.0|No|No|No
+435654|No|31.93|Yes|No|No|0.0|0.0|No|Male|50-54|White|No|No|Excellent|6.0|No|No|No
+699666|No|24.56|No|No|No|4.0|0.0|No|Female|50-54|Black|No|Yes|Good|2.0|Yes|No|No
+267252|No|28.25|No|No|No|0.0|0.0|No|Male|35-39|White|No|No|Very good|6.0|No|No|No
+277940|Yes|39.16|No|No|No|30.0|0.0|Yes|Female|75-79|White|No|No|Poor|6.0|No|No|No
+100000|No|32.55|Yes|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Excellent|6.0|No|No|No
+814843|No|26.26|Yes|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Good|8.0|Yes|No|Yes
+254890|No|28.32|Yes|No|No|0.0|3.0|No|Female|65-69|White|No|Yes|Very good|6.0|No|No|No
+491087|No|31.47|No|No|No|0.0|2.0|No|Female|25-29|White|No|Yes|Excellent|7.0|No|No|No
+612616|No|30.79|No|No|No|0.0|1.0|No|Female|65-69|White|No|Yes|Excellent|7.0|No|No|No
+432400|No|24.69|Yes|No|No|30.0|2.0|No|Female|45-49|White|No|Yes|Good|6.0|Yes|No|No
+683338|No|28.48|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Excellent|6.0|No|No|No
+370796|No|43.05|Yes|No|No|2.0|0.0|No|Male|35-39|White|No|No|Good|5.0|No|No|Yes
+736794|No|22.71|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+332827|No|34.95|Yes|Yes|No|0.0|0.0|Yes|Female|60-64|White|No|Yes|Good|6.0|No|No|No
+461970|No|27.84|No|No|No|0.0|30.0|No|Male|18-24|White|No|Yes|Very good|6.0|No|No|No
+747465|No|38.74|No|No|No|0.0|0.0|No|Female|65-69|Black|No|Yes|Good|5.0|No|No|No
+762197|No|22.8|No|No|No|0.0|5.0|No|Female|60-64|White|No|No|Good|8.0|No|No|No
+718266|No|31.37|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Fair|8.0|Yes|No|No
+402922|No|24.33|No|No|No|0.0|0.0|No|Male|65-69|White|Yes|Yes|Excellent|5.0|No|No|No
+198620|No|25.83|Yes|No|No|0.0|0.0|No|Male|35-39|White|No|No|Good|6.0|No|No|No
+172405|No|23.04|Yes|No|No|2.0|0.0|Yes|Male|80 or older|White|No|No|Good|9.0|No|No|No
+567228|No|24.18|No|No|No|0.0|0.0|No|Male|75-79|Black|No|No|Good|6.0|No|No|No
+295515|No|34.17|No|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Very good|6.0|No|No|No
+665795|No|19.26|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Very good|7.0|No|No|No
+293794|No|19.49|Yes|No|No|0.0|3.0|No|Female|65-69|White|No|Yes|Very good|7.0|No|No|No
+336981|No|19.57|No|No|No|30.0|0.0|No|Female|70-74|White|No|Yes|Good|8.0|No|No|No
+769625|No|36.02|Yes|No|No|8.0|0.0|No|Female|40-44|White|No|Yes|Very good|6.0|Yes|No|No
+642819|No|24.41|Yes|No|No|4.0|0.0|No|Male|40-44|White|No|Yes|Excellent|8.0|No|No|No
+420376|No|34.96|Yes|No|No|0.0|0.0|No|Male|18-24|Hispanic|No|No|Very good|8.0|Yes|No|No
+660372|No|31.57|No|No|No|0.0|0.0|No|Male|80 or older|Black|No|Yes|Very good|8.0|No|No|No
+665700|No|30.9|No|No|No|0.0|0.0|No|Female|18-24|Hispanic|No|Yes|Good|7.0|No|No|No
+359046|No|24.37|Yes|No|No|1.0|15.0|No|Female|40-44|White|No|Yes|Good|5.0|No|No|No
+403603|No|47.83|No|No|No|0.0|0.0|No|Female|60-64|Hispanic|Yes|Yes|Fair|8.0|No|No|No
+240212|No|29.76|Yes|No|No|0.0|5.0|No|Female|30-34|White|No|Yes|Very good|7.0|No|No|No
+758686|No|52.9|No|No|No|0.0|0.0|No|Female|45-49|White|No|No|Very good|8.0|No|No|Yes
+213297|No|26.34|No|No|No|30.0|0.0|No|Female|80 or older|White|No|No|Excellent|8.0|No|No|No
+583492|No|35.43|No|No|No|0.0|5.0|Yes|Female|55-59|White|No|No|Good|7.0|No|No|No
+635853|No|26.61|No|No|No|10.0|3.0|Yes|Female|80 or older|Hispanic|No|Yes|Fair|6.0|No|No|No
+104944|No|26.22|No|No|No|0.0|5.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|Yes
+296521|No|18.56|No|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Excellent|9.0|No|No|No
+808190|No|36.02|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|7.0|No|No|No
+380320|No|24.02|No|No|No|0.0|0.0|No|Male|55-59|Black|No|No|Excellent|5.0|No|No|No
+531994|No|29.84|No|No|No|0.0|0.0|No|Male|30-34|Black|No|Yes|Good|7.0|No|No|No
+851157|No|25.84|Yes|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|6.0|No|No|No
+554762|No|22.14|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Excellent|7.0|No|No|No
+690260|No|25.89|Yes|No|No|30.0|20.0|Yes|Female|75-79|White|No|No|Poor|4.0|No|No|No
+355434|No|19.58|No|No|No|0.0|2.0|No|Female|80 or older|White|No|Yes|Excellent|9.0|No|No|No
+754473|No|30.62|No|No|No|0.0|3.0|No|Female|55-59|White|No|Yes|Very good|7.0|No|No|Yes
+211141|No|51.21|Yes|No|No|0.0|2.0|Yes|Female|60-64|White|Yes|Yes|Good|9.0|No|No|No
+819517|No|21.41|No|No|No|0.0|5.0|No|Female|25-29|White|No|Yes|Excellent|8.0|No|No|No
+545370|No|24.69|No|No|No|0.0|0.0|No|Male|55-59|Hispanic|No|No|Good|7.0|No|No|No
+877351|Yes|33.33|Yes|No|No|15.0|10.0|Yes|Female|50-54|Other|Yes|Yes|Fair|6.0|No|No|No
+735743|No|29.26|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+707569|No|25.77|No|No|No|2.0|2.0|No|Male|50-54|Hispanic|No|Yes|Very good|7.0|No|No|No
+668539|No|24.96|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Good|6.0|No|No|No
+440200|No|24.39|No|No|No|2.0|0.0|No|Male|18-24|White|No|Yes|Excellent|7.0|No|No|No
+660597|No|28.13|No|Yes|No|0.0|5.0|No|Male|35-39|White|No|Yes|Very good|7.0|No|No|No
+462997|No|20.37|No|No|No|0.0|0.0|No|Female|80 or older|Black|Yes|Yes|Good|6.0|No|No|No
+561599|No|40.04|Yes|No|No|30.0|30.0|Yes|Female|60-64|Black|Yes|No|Poor|6.0|No|No|No
+810236|No|25.11|No|No|No|0.0|0.0|No|Male|70-74|Black|Yes|Yes|Very good|8.0|No|No|No
+357048|No|25.83|Yes|No|Yes|0.0|0.0|No|Male|80 or older|White|No|Yes|Very good|7.0|No|No|No
+732463|No|25.06|No|No|No|0.0|5.0|No|Female|35-39|White|No|Yes|Excellent|7.0|No|No|No
+576313|No|24.13|Yes|No|No|15.0|30.0|Yes|Male|45-49|Black|No|No|Fair|8.0|No|No|No
+854275|No|18.56|Yes|No|No|0.0|30.0|No|Female|30-34|White|No|Yes|Very good|5.0|No|No|No
+462786|No|27.06|Yes|No|No|0.0|0.0|No|Male|60-64|White|Yes|Yes|Good|7.0|No|No|No
+487044|No|21.29|No|No|No|2.0|0.0|No|Male|80 or older|White|No|No|Very good|7.0|No|No|No
+864921|No|22.74|No|No|No|0.0|1.0|No|Male|18-24|White|No|Yes|Very good|8.0|No|No|No
+273152|No|39.58|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Good|6.0|No|No|No
+470122|No|23.91|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Excellent|7.0|Yes|No|No
+164674|Yes|31.32|Yes|No|Yes|0.0|0.0|No|Male|65-69|White|Yes|Yes|Good|7.0|No|No|No
+653356|No|29.23|Yes|No|No|30.0|5.0|Yes|Female|55-59|White|Yes|No|Poor|4.0|No|No|No
+282599|No|23.63|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Excellent|6.0|No|No|No
+179263|Yes|30.11|No|No|No|30.0|15.0|No|Female|70-74|White|No|Yes|Poor|5.0|Yes|No|No
+442696|No|23.17|No|No|No|0.0|0.0|No|Male|35-39|Asian|No|Yes|Very good|8.0|No|No|No
+575870|No|22.57|No|No|Yes|1.0|1.0|Yes|Female|75-79|White|No|Yes|Good|7.0|No|No|Yes
+705345|No|23.03|No|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Excellent|6.0|No|No|No
+844792|No|20.0|Yes|No|No|0.0|25.0|No||18-24|White|No|Yes|Very good|8.0|No|No|No
+686548|Yes|26.12|Yes|Yes|Yes|0.0|0.0|No|Male|50-54|Black|No|Yes|Excellent|8.0|No|No|No
+190440|No|23.06|No|No|No|3.0|30.0|No|Male|25-29|White|No|Yes|Good|9.0|No|No|No
+409121|No|25.24|Yes|No|No|0.0|0.0|No|Female|60-64|Black|No|Yes|Fair|9.0|No|No|No
+894048|No|31.09|No|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Excellent|7.0|Yes|No|No
+658753|No|31.89|No|No|No|3.0|1.0|No|Female|55-59|Black|No|Yes|Very good|6.0|No|No|No
+698505|No|33.23|No|No|No|0.0|0.0|No|Male|45-49|White|Yes|Yes|Good|8.0|No|No|No
+794585|No|31.08|No|No|No|0.0|0.0|No|Male|50-54|Hispanic|No|Yes|Very good|8.0|No|No|No
+222576|No|18.07|No|No|No|0.0|2.0|No|Female|50-54|White|No|No|Very good|8.0|No|No|Yes
+260520|No|24.41|Yes|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|6.0|No|No|No
+759086|No|17.72|No|No|No|0.0|3.0|No|Female|40-44|White|No|Yes|Excellent|6.0|No|No|No
+678678|No|32.98|No|No|No|0.0|15.0|No|Male|18-24|White|No|Yes|Very good|8.0|No|No|No
+512780|No|26.07|No|No|Yes|0.0|0.0|No|Female|75-79|White|No|No|Excellent|8.0|No|No|No
+760164|No|33.65|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Good|7.0|No|No|No
+697737|No|35.43|No|No|No|3.0|7.0|No|Female|25-29|Other|No|No|Good|7.0|No|No|No
+837236|No|30.9|No|No|No|0.0|4.0|No|Female|30-34|White|No|Yes|Excellent|7.0|No|No|No
+396316|Yes|32.1|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|Yes|No
+601133|No|33.2|Yes|Yes|No|0.0|30.0|No|Male|25-29|White|No|Yes|Good|6.0|No|No|No
+572312|No|19.77|Yes|No|No|0.0|7.0|No|Female|30-34|White|No|Yes|Excellent|7.0|No|No|No
+582988|No|29.65|Yes|No|No|5.0|0.0|No|Female|45-49|White|No|Yes|Good|8.0|No|No|No
+635209|No|18.18|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Excellent|8.0|No|No|No
+598671|No|26.11|No|No|No|0.0|3.0|No|Female|60-64|White|No|Yes|Excellent|8.0|No|No|No
+862657|No|27.73|No|No|No|0.0|0.0|No|Female|30-34|Hispanic|No|No|Fair|8.0|No|No|No
+352700|No|45.73|Yes|No|No|0.0|2.0|No|Female|25-29|White|No|Yes|Very good|5.0|No|No|No
+291281|No|20.66|Yes|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Very good|7.0|No|No|No
+145414|No|39.48|No|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Very good|6.0|No|No|Yes
+723411|No|27.37|No|Yes|No|1.0|30.0|No|Male|25-29|Hispanic|No|Yes|Good|5.0|No|No|No
+569839|No|41.7|No|No|No|0.0|10.0|No|Female|40-44|Black|No|No|Excellent|7.0|Yes|No|No
+203193|No|47.55|Yes|No|No|20.0|0.0|Yes|Female|65-69|White|No|Yes|Good|4.0|No|No|No
+352996|No|30.99|Yes|No|No|0.0|25.0|No|Male|70-74|White|No|No|Very good|7.0|Yes|No|No
+795165|No|28.91|No|Yes|No|0.0|1.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+116677|No|25.23|Yes|No|No|2.0|0.0|No|Male|60-64|White|No|Yes|Very good|8.0|No|No|No
+103166|No|22.43|No|No|Yes|4.0|2.0|No|Male|65-69|White|No|Yes|Fair|10.0|No|No|No
+180681|No|20.67|Yes|Yes|No|0.0|2.0|No|Male|55-59|Other|No|Yes|Very good|6.0|No|No|No
+139199|No|25.02|Yes|Yes|No|0.0|7.0|No|Female|55-59|White|No|Yes|Good|8.0|No|No|No
+448553|Yes|25.83|Yes|No|No|30.0|0.0|Yes|Male|80 or older|White|No|No|Poor|10.0|Yes|No|Yes
+719758|No|31.03|Yes|No|No|0.0|0.0|No|Male|40-44|Asian|No|Yes|Excellent|9.0|No|No|No
+312716|No|29.99|Yes|Yes|No|3.0|5.0|No|Male|30-34|Black|No|Yes|Excellent|8.0|No|No|No
+717611|No|21.26|Yes|No|No|20.0|30.0|Yes|Female|45-49|White|No|No|Good|3.0|Yes|No|No
+562352|No|30.41|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|No|No
+511240|No|29.05|No|No|No|4.0|7.0|No|Female|18-24|Black|No|Yes|Good|8.0|Yes|No|No
+211894|No|28.84|Yes|No|No|0.0|0.0|No|Male|55-59|Asian|No|Yes|Good|7.0|No|No|No
+404910|No|29.95|No|Yes|No|0.0|0.0|No|Female|50-54|White|No|Yes|Very good|8.0|No|No|No
+625595|No|34.97|Yes|No|No|0.0|0.0|No|Male|35-39|White|Yes|No|Good|6.0|No|No|No
+448133|No|22.11|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|7.0|No|No|No
+298004|No|22.69|No|No|No|0.0|0.0|No|Male|25-29|White|No|Yes|Excellent|9.0|No|No|No
+413522|No|30.34|Yes|Yes|No|0.0|30.0|No|Male|30-34|White|No|Yes|Very good|3.0|No|No|No
+860517|No|25.02|No|No|No|1.0|0.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+209821|No|27.44|No|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Very good|7.0|No|No|No
+475233|No|25.82|No|No|No|0.0|10.0|No|Male|40-44|White|No|Yes|Excellent|8.0|No|No|No
+461499|No|20.6|No|No|No|4.0|4.0|No|Female|80 or older|Black|No|Yes|Good|6.0|No|No|No
+624782|No|31.32|Yes|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Good|10.0|No|No|No
+594998|Yes|30.27|Yes|No|No|30.0|5.0|No|Female|80 or older|White|No|No|Poor|12.0|No|No|No
+114117|No|27.89|Yes|No|No|0.0|0.0|No|Male|25-29|White|No|Yes|Excellent|7.0|No|No|No
+416145|No|41.45|No|No|No|0.0|5.0|No|Female|65-69|Black|Yes|Yes|Good|8.0|No|No|No
+499632|No|27.64|No|No|No|0.0|2.0|No|Female|35-39|White|No|Yes|Very good|6.0|Yes|No|No
+587573|No|36.92|No|No|No|3.0|2.0|No|Male|35-39|Black|No|Yes|Good|6.0|Yes|No|No
+463811|Yes|31.28|Yes|No|Yes|30.0|0.0|No|Male|65-69|White|No|Yes|Poor|4.0|No|No|No
+691949|No|33.38|No|No|No|10.0|10.0|No|Male|25-29|White|No|Yes|Excellent|10.0|No|No|No
+729007|No|25.09|No|No|No|0.0|0.0|No|Female|30-34|White|No|Yes|Excellent|7.0|Yes|No|No
+781275|No|25.06|No|No|No|0.0|0.0|No|Female|80 or older|White|No|No|Good|8.0|No|No|No
+847966|No|35.87|No|No|No|4.0|30.0|No|Male|18-24|White|No|No|Fair|7.0|Yes|No|No
+483388|No|30.9|No|No|No|0.0|30.0|No|Female|65-69|White|No|Yes|Very good|7.0|Yes|Yes|No
+657906|No|19.94|No|No|No|15.0|0.0|Yes|Male|55-59|White|No|No|Fair|7.0|No|No|No
+750922|No|28.48|No|No|No|0.0|0.0|Yes|Female|70-74|Other|No, borderline diabetes|No|Good|10.0|No|No|No
+802315|No|29.8|Yes|No|No|15.0|7.0|Yes|Female|55-59|White|Yes|No|Good|6.0|No|No|No
+194143|No|30.9|No|Yes|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|9.0|No|No|No
+849465|No|31.57|No|Yes|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|6.0|No|No|No
+716783|No|21.95|No|No|No|0.0|2.0|No|Female|18-24|White|No|Yes|Excellent|7.0|No|No|No
+108002|No|29.03|No|No|No|0.0|5.0|No|Male|40-44|White|No|No|Good|8.0|No|No|No
+666916|Yes|23.56|Yes|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Fair|8.0|No|No|No
+553079|No|36.49|No|No|No|1.0|0.0|No|Female|55-59|White|No|Yes|Good|7.0|Yes|No|No
+784899|No|28.29|No|No|No|0.0|0.0|No|Female|30-34|Hispanic|No|No|Good|6.0|No|No|No
+370465|No|24.33|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Very good|8.0|Yes|No|No
+808634|No|27.89|No|No|No|2.0|1.0|No|Male|55-59|White|No|Yes|Very good|6.0|No|No|No
+629610|No|23.3|Yes|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Good|7.0|No|No|No
+226655|No|31.87|No|No|No|0.0|2.0|No|Male|60-64|White|No|No|Good|6.0|No|No|No
+288693|No|25.84|Yes|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Excellent|7.0|No|No|No
+660940|Yes|33.47|No|No|Yes|3.0|0.0|No|Male|50-54|White|No|Yes|Fair|8.0|No|No|No
+514780|No|32.92|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|6.0|No|No|No
+474026|No|||No|No|0.0|0.0|No||55-59|White|No|Yes|Excellent|8.0|Yes|No|No
+157450|No|26.58|No|No|No|30.0|30.0|Yes|Male|35-39|White|No|Yes|Excellent|9.0|No|No|No
+400471|No|25.84|Yes|No|No|30.0|30.0|No|Male|30-34|White|No|Yes|Fair|7.0|No|No|No
+540705|No|30.41|No|No|No|2.0|14.0|No|Female|65-69|White|Yes|Yes|Good|8.0|No|No|No
+736578|No|25.1|No|No|No|2.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|Yes|No|Yes
+110950|Yes|26.39|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|9.0|No|No|No
+820745|No|24.33|Yes|No|No|0.0|0.0|Yes|Female|55-59|White|No|Yes|Fair|7.0|No|No|No
+497087|No|23.73|No|No|No|0.0|5.0|No|Male|25-29|White|No|No|Excellent|7.0|No|No|No
+492670|No|25.68|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+571726|No|36.94|No|No|No|0.0|0.0|No|Male|55-59|Black|No|Yes|Good|8.0|Yes|No|No
+280276|No|25.62|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+205072|No|21.93|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|6.0|Yes|No|No
+223956|No|34.44|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Good|8.0|No|No|No
+472278|No|25.11|No|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Excellent|6.0|No|No|No
+360416|No|28.29|No|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Very good|7.0|No|No|No
+282208|No|26.63|Yes|No|No|0.0|4.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+713709|No|19.67|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Excellent|8.0|No|No|No
+456084|No|26.15|Yes|No|No|0.0|0.0|No|Male|40-44|Black|No|Yes|Excellent|7.0|No|No|No
+335944|No|35.62|Yes|No|No|5.0|0.0|No|Male|25-29|Other|No|Yes|Good|9.0|No|No|No
+209214|No|29.12|No|No|No|2.0|15.0|No|Female|18-24|White|No|Yes|Excellent|7.0|No|No|No
+781107|No|30.13|No|Yes|No|0.0|10.0|No|Male|18-24|White|No|Yes|Good|7.0|No|No|No
+302005|No|31.75|Yes|Yes|No|0.0|0.0|No|Female|65-69|Black|No|No|Very good|6.0|No|No|No
+757833|No|44.63|No|No|No|0.0|0.0|No|Female|50-54|Hispanic|No|No|Good|6.0|No|No|No
+114403|No|22.6|No|No|No|0.0|0.0|No|Male|75-79|White|No|No|Very good|8.0|No|No|No
+479338|No|28.82|No|No|No|4.0|0.0|No|Female|40-44|Black|No|Yes|Good|6.0|No|No|No
+504691|No|27.28|No|No|No|0.0|0.0|No|Female|45-49|Hispanic|No|Yes|Very good|8.0|Yes|No|No
+284851|No|17.01|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|7.0|No|No|Yes
+110251|No|30.34|Yes|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|8.0|No|No|No
+801691|No|24.33|Yes|No|No|15.0|0.0|Yes|Male|65-69|Black|No|No|Poor|8.0|Yes|No|No
+135623|No|20.64|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|6.0|No|No|No
+347323|No|27.68|No|No|No|0.0|0.0|No|Male|25-29|Hispanic|No|Yes|Excellent|8.0|Yes|No|No
+342060|No|21.63|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Good|7.0|No|No|No
+145114|No|29.05|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|8.0|No|No|No
+163046|Yes|27.96|No|No|No|0.0|0.0|No|Female|60-64|White|Yes|Yes|Very good|7.0|No|No|No
+833835|No|32.08|Yes|No|Yes|0.0|15.0|No|Female|50-54|White|No|Yes|Fair|12.0|No|No|No
+318119|Yes|24.21|Yes|No|No|20.0|30.0|Yes|Female|25-29|White|No|No|Fair|8.0|No|No|No
+125483|No|48.26|Yes|No|No|0.0|5.0|Yes|Female|60-64|White|Yes|No|Good|8.0|Yes|No|No
+324176|No|24.03|Yes|No|No|0.0|0.0|No||75-79|White|No|Yes|Excellent|8.0|No|No|No
+707680|Yes|31.19|Yes|No|No|2.0|0.0|Yes|Male|65-69|White|No|Yes|Good|5.0|No|No|No
+140763|Yes|35.0|No|No|Yes|30.0|0.0|Yes|Male|60-64|White|Yes|Yes|Fair|6.0|No|No|No
+238469|No|32.55|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Very good|8.0|No|No|No
+239441|No|27.1|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|No|Very good|9.0|No|No|Yes
+550543|No|29.84|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Very good|7.0|No|No|No
+106549|No|25.83|No|No|No|2.0|14.0|No|Female|35-39|White|No|Yes|Very good|7.0|No|No|No
+489648|No|23.17|No|No|No|0.0|0.0|Yes|Female|75-79|White|No|Yes|Good|7.0|No|No|No
+455372|No|24.83|No|No|No|0.0|0.0|No|Male|75-79|White|No|Yes|Excellent|8.0|No|No|No
+500416|No|20.98|No|Yes|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|No|Yes
+559556|No|24.39|Yes|No|No|30.0|0.0|No|Male|40-44|White|No|Yes|Very good|8.0|Yes|No|No
+167361|No|28.17|No|No|No|0.0|0.0|No|Male|65-69|Other|No|Yes|Excellent|8.0|No|No|No
+280830|No|26.26|Yes|No|No|2.0|1.0|No|Male|80 or older|White|No|Yes|Good|6.0|No|No|No
+884230|No|26.63|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Good|8.0|Yes|No|No
+871902|No|27.4|No|No|No|0.0|2.0|No|Female|18-24|White|No|No|Excellent|8.0|No|No|No
+235828|No|26.52|No|No|No|7.0|0.0|No|Female|30-34|Asian|No|Yes|Very good|8.0|No|No|No
+820500|Yes|25.94|Yes|No|No|30.0|0.0|No|Male|75-79|White|No|No|Good|8.0|No|No|Yes
+631439|No|28.15|No|No|No|10.0|0.0|No|Female|70-74|White|No|Yes|Good|8.0|No|No|No
+639747|No|25.06|No|No|No|0.0|7.0|No|Male|18-24|Hispanic|No|Yes|Excellent|7.0|No|No|No
+360915|No|28.7|Yes|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Good|7.0|No|Yes|No
+461785|No|25.77|Yes|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Excellent|7.0|No|No|No
+111413|No|24.21|No|No|Yes|0.0|0.0|No|Male|75-79|White|No|No|Fair|6.0|No|No|No
+186512|No|39.16|No|No|No|0.0|5.0|No|Female|25-29|White|No|Yes|Fair|10.0|No|No|No
+548990|No|32.28|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Excellent|8.0|No|No|No
+563212|No|27.46|Yes|No|No|0.0|0.0|No|Female|60-64|Other|No|Yes|Fair|8.0|No|No|No
+891671|No|24.96|Yes|No|No|15.0|30.0|No|Male|35-39|White|Yes|No|Poor|8.0|No|No|No
+780900|Yes|23.38|No|No|No|30.0|30.0|Yes|Female|80 or older|White|No|No|Poor|8.0|No|No|No
+149838|No|24.41|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Excellent|8.0|No|No|No
+316686|No|27.46|No|No|No|0.0|0.0|No|Female|45-49|Other|No|Yes|Very good|5.0|No|No|No
+309026|No|23.75|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|8.0|No|No|No
+852803|No|20.63|No|No|No|0.0|0.0|No|Female|80 or older|White|No|No|Good|9.0|No|No|No
+846123|No|21.97|Yes|No|No|0.0|10.0|No|Female|80 or older|White|No|Yes|Very good|7.0|No|No|Yes
+704526|No|29.05|No|No|Yes|3.0|3.0|Yes|Female|80 or older|White|No|Yes|Fair|9.0|Yes|No|No
+858603|No|27.44|No|No|No|7.0|0.0|No|Female|55-59|Other|No|Yes|Fair|5.0|No|No|No
+348282|No|24.11|Yes|No|No|7.0|0.0|No|Male|65-69|White|No|Yes|Good|7.0|No|No|No
+713890|Yes|31.19|Yes|No|No|5.0|0.0|No|Male|60-64|White|Yes|Yes|Fair|6.0|No|No|No
+193459|No|29.18|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|7.0|No|No|No
+503331|No|40.74|Yes|No|No|0.0|0.0|No|Female|65-69|White|No|No|Good|8.0|No|No|No
+898859|No|23.78|Yes|No|No|14.0|14.0|No|Female|40-44|White|No|No|Good|7.0|No|No|No
+316340|No|24.75|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|7.0|No|No|No
+447260|No|27.37|No|No|No|0.0|3.0|No|Female|45-49|White|No|Yes|Very good|8.0|No|No|No
+255157|No|23.01|Yes|No|No|0.0|2.0|No|Male|45-49|White|No|Yes|Very good|7.0|No|No|No
+834939|No|22.43|No|No|No|0.0|10.0|No|Male|30-34|White|No|Yes|Very good|8.0|No|No|Yes
+130919|No|21.94|Yes|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|7.0|No|No|No
+387738|No|21.93|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Excellent|8.0|No|No|No
+246584|No|19.94|Yes|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|7.0|No|No|Yes
+123176|Yes|21.7|No|No|Yes|3.0|0.0|No|Male|55-59|White|Yes|Yes|Good|6.0|No|No|No
+532535|No|25.84|Yes|No|No|0.0|0.0|Yes|Female|75-79|White|No|Yes|Very good|7.0|No|No|No
+473422|No|28.34|Yes|Yes|No|0.0|2.0|No|Female|70-74|White|No|Yes|Very good|6.0|No|No|No
+286688|No|23.92|No|No|No|0.0|2.0|No|Male|25-29|Asian|No|Yes|Very good|12.0|No|No|No
+312231|No|23.49|Yes|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|6.0|Yes|No|No
+505987|No|22.13|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|9.0|No|No|No
+360937|Yes|32.92|No|No|Yes|6.0|0.0|Yes|Female|80 or older|White|No|No|Fair|5.0|No|No|No
+381409|No|42.51|No|No|No|0.0|0.0|No|Female|50-54|White|Yes|Yes|Very good|7.0|No|No|Yes
+112721|No|24.41|No|No|No|3.0|0.0|No|Female|25-29|Hispanic|No|No|Good|8.0|No|No|No
+140806|No|33.96|No|No|No|0.0|0.0|No|Male|70-74|Hispanic|Yes|Yes|Very good|5.0|No|Yes|No
+341333|No|48.06|No|No|No|1.0|2.0|No|Female|25-29|Black|No|No|Good|8.0|No|No|No
+263463|No|27.37|No|No|No|0.0|0.0|No|Male|60-64|White|No|No|Good|7.0|No|No|No
+547295|No|27.44|No|No|No|0.0|0.0|No|Female|18-24|Hispanic|No|Yes|Very good|8.0|No|No|No
+128240|No|15.98|No|No|No|0.0|1.0|No|Female|18-24|Asian|No|Yes|Excellent|7.0|No|No|No
+846858|No|24.39|No|No|No|1.0|7.0|No|Female|25-29|White|No|Yes|Very good|7.0|Yes|No|No
+470881|No|28.34|No|No|No|0.0|0.0|No|Female|18-24|White|No|No|Good|8.0|No|No|No
+833747|No|27.99|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|No|Very good|7.0|No|No|No
+216312|No|23.11|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Good|6.0|No|No|No
+732260|No|31.57|Yes|No|No|0.0|0.0|No|Male|25-29|White|No|Yes|Excellent|7.0|No|No|No
+630167|No|25.8|No|No|No|0.0|2.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+766686|No|33.84|No|No|No|0.0|0.0|Yes|Female|60-64|White|No|Yes|Good|8.0|No|No|No
+299799|No|36.35|No|No|No|30.0|30.0|No|Female|65-69|White|Yes|No|Fair|7.0|Yes|Yes|No
+622258|No|25.77|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|7.0|No|No|No
+149733|No|40.18|Yes|Yes|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|6.0|Yes|No|No
+819910|No|25.39|Yes|No|No|0.0|0.0|Yes|Female|75-79|White|No|No|Good|7.0|No|No|No
+382301|No|19.39|Yes|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Excellent|7.0|No|No|No
+201488|No|30.55|No|No|No|0.0|20.0|No|Female|18-24|Hispanic|No|No|Good|6.0|No|No|No
+422621|Yes|32.98|Yes|No|No|20.0|20.0|Yes|Male|60-64|Black|No|No|Fair|6.0|No|No|No
+745660|No|32.03|No|No|Yes|10.0|5.0|No|Female|60-64|American Indian/Alaskan Native|No|Yes|Fair|8.0|No|No|No
+490907|No|27.91|Yes|No|Yes|0.0|0.0|No|Male|70-74|White|No|No|Very good|17.0|No|No|No
+764752|No|24.12|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|9.0|No|No|No
+144903|No|31.32|No|No|No|1.0|0.0|No|Male|55-59|Hispanic|No, borderline diabetes|Yes|Fair|8.0|No|No|No
+238595|No|30.67|Yes|No|No|0.0|10.0|Yes|Male|45-49|Black|No|Yes|Fair|6.0|No|No|No
+189697|No|26.5|No|No|No|0.0|1.0|No|Male|30-34|White|No|Yes|Very good|7.0|No|No|No
+248447|No|21.3|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|7.0|No|No|No
+588185|No|30.27|No|No|No|0.0|0.0|No|Female|70-74|Hispanic|Yes|No|Good|6.0|No|No|No
+650176|No|27.2|No|No|No|20.0|2.0|No|Male|65-69|Hispanic|Yes|Yes|Fair|6.0|Yes|No|No
+879566|No|28.7|Yes|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Very good|7.0|No|No|No
+679129|No|23.49|No|No|No|0.0|0.0|No|Female|80 or older|White|No|No|Good|5.0|No|No|Yes
+451324|No|28.7|Yes|No|No|5.0|7.0|No|Male|35-39|White|No|Yes|Very good|6.0|No|No|No
+765092|No|40.35|Yes|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Good|5.0|No|No|No
+877555|Yes|19.75|Yes|No|Yes|0.0|0.0|No|Female|60-64|Other|No|Yes|Fair|8.0|No|No|No
+518229|No|22.24|No|No|No|0.0|0.0|No|Male|35-39|White|No|Yes|Good|8.0|Yes|No|No
+643428|Yes|23.59|Yes|No|Yes|30.0|0.0|No|Female|55-59|White|No|Yes|Poor|8.0|No|No|No
+891511|No|40.35|No|No|No|5.0|1.0|Yes|Female|70-74|Hispanic|Yes|Yes|Fair|7.0|No|No|No
+439062|No|44.48|No|No|No|30.0|5.0|No|Male|55-59|White|Yes|Yes|Poor|6.0|No|No|No
+640664|No|27.29|No|No|No|0.0|0.0|No|Female|80 or older|White|Yes|Yes|Very good|7.0|No|No|No
+261409|No|38.27|Yes|No|Yes|2.0|20.0|Yes|Female|40-44|White|No|No|Good|5.0|Yes|No|No
+213145|No|27.71|No|No|No|0.0|10.0|No|Male|40-44|White|No|Yes|Very good|6.0|No|No|No
+598428|No|41.44|Yes|No|No|0.0|0.0|No|Female|60-64|Black|No|No|Good|7.0|No|No|No
+353520|No|||No|No|0.0|0.0|No||45-49|White|No|Yes|Very good||No|No|No
+241047|Yes|25.79|No|No|No|0.0|0.0|Yes|Female|80 or older|White|No|Yes|Good|8.0|No|No|No
+608251|No|19.2|No|No|No|0.0|20.0|No|Male|18-24|White|No|Yes|Fair|7.0|No|No|No
+533387|No|27.98|Yes|No|No|0.0|0.0|No|Male|70-74|Black|Yes|No|Good|8.0|No|No|No
+824229|Yes|24.41|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Good|7.0|No|Yes|No
+452814|No|28.8|Yes|No|No|10.0|10.0|No|Male|60-64|White|No|No|Fair|8.0|Yes|No|Yes
+116886|No|20.48|No|No|No|15.0|0.0|Yes|Female|75-79|White|No|Yes|Fair|6.0|No|No|No
+563460|No|22.68|No|No|No|0.0|5.0|No|Female|45-49|White|No|Yes|Excellent|8.0|No|No|No
+815187|No|35.9|No|No|No|0.0|7.0|No|Female|40-44|White|No|Yes|Very good|7.0|No|No|No
+631910|No|21.93|No|No|No|0.0|0.0|No|Female|45-49|White|No|Yes|Very good|6.0|No|No|No
+173732|No|29.95|Yes|No|No|15.0|5.0|No|Female|65-69|White|Yes|Yes|Good|7.0|Yes|No|No
+117711|No|30.56|No|Yes|No|0.0|0.0|No|Male|25-29|White|No|Yes|Very good|7.0|No|No|No
+230956|No|38.26|Yes|No|No|30.0|20.0|No|Male|50-54|White|Yes|Yes|Good|6.0|No|No|No
+309825|No|44.63|No|No|No|0.0|0.0|No|Female|30-34|White|No|No|Very good|8.0|No|No|No
+137238|No|28.0|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Good|8.0|No|No|No
+779827|No|25.1|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Good|7.0|No|No|No
+667119|No|27.46|No|No|No|0.0|30.0|No|Female|50-54|White|No|No|Very good|7.0|No|Yes|No
+873632|No|23.3|Yes|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+494274|No|28.19|No|No|No|0.0|0.0|Yes|Female|55-59|White|Yes|Yes|Good|8.0|No|No|No
+293906|No|28.34|No|No|No|0.0|2.0|No|Female|60-64|Black|Yes (during pregnancy)|Yes|Good|8.0|No|No|No
+733990|No|23.73|No|No|No|0.0|3.0|No|Male|50-54|White|No|Yes|Very good|8.0|No|No|No
+256401|No|19.01|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|7.0|No|No|No
+647994|No|24.39|No|No|No|0.0|0.0|No|Male|35-39|White|No, borderline diabetes|Yes|Excellent|7.0|No|No|No
+898680|No|16.63|No|No|No|0.0|2.0|No|Female|55-59|Asian|No|Yes|Excellent|6.0|No|No|No
+170104|No|19.07|No|No|No|0.0|5.0|No|Male|18-24|Black|No|Yes|Very good|5.0|No|No|No
+877029|No|21.16|Yes|Yes|No|0.0|0.0|No|Female|75-79|White|No|Yes|Very good|7.0|No|No|Yes
+417173|No|25.82|No|No|No|1.0|5.0|No|Female|25-29|White|No|Yes|Very good|7.0|No|No|No
+233297|No|31.57|Yes|No|No|0.0|3.0|No|Male|25-29|Black|No|Yes|Good|6.0|No|No|No
+740454|No|25.79|No|No|No|0.0|0.0|No|Female|45-49|Black|No|Yes|Very good|8.0|No|Yes|No
+110233|No|42.91|Yes|No|No|0.0|30.0|Yes|Female|50-54|American Indian/Alaskan Native|No|No|Fair|12.0|Yes|No|No
+796212|No|23.49|No|No|No|0.0|3.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+238525|No|18.88|No|No|No|2.0|1.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+687975|No|47.65|No|No|No|0.0|2.0|No|Female|25-29|Other|No|Yes|Excellent|9.0|No|No|No
+424789|No|26.43|No|No|No|3.0|0.0|No|Female|80 or older|White|No, borderline diabetes|No|Very good|6.0|No|No|No
+763022|No|19.11|Yes|No|No|0.0|15.0|No|Female|60-64|White|No|Yes|Good|7.0|No|No|Yes
+108387|No|38.25|Yes|No|No|14.0|30.0|Yes|Female|60-64|White|Yes|Yes|Fair|6.0|No|Yes|No
+777831|No|23.78|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|6.0|No|No|No
+102857|No|29.95|No|No|No|1.0|2.0|No|Female|35-39|Black|No|Yes|Very good|6.0|No|No|No
+124421|No|25.82|Yes|No|No|5.0|30.0|No|Female|75-79|White|No|Yes|Very good|10.0|No|No|Yes
+558816|No|25.63|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Excellent|7.0|No|No|No
+486971|No|24.19|Yes|No|No|2.0|0.0|No|Female|30-34|White|No|Yes|Fair|7.0|Yes|No|No
+466186|Yes|29.84|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|6.0|No|No|No
+201283|No|28.06|No|No|No|15.0|20.0|No|Male|40-44|White|No|Yes|Very good|9.0|No|No|No
+390275|No|22.46|Yes|No|No|7.0|0.0|No|Female|75-79|White|No|Yes|Excellent|8.0|No|No|No
+197258|No|32.61|Yes|No|No|2.0|5.0|No|Female|65-69|White|No|Yes|Very good|7.0|No|No|No
+608864|No|25.84|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|5.0|No|No|No
+575765|No|43.27|Yes|No|No|0.0|0.0|Yes|Female|55-59|American Indian/Alaskan Native|No|No|Good|6.0|Yes|No|No
+852939|No|23.02|Yes|No|No|0.0|0.0|No|Female|80 or older|White|No|No|Very good|8.0|No|No|No
+808865|No|29.18|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Good|7.0|No|No|No
+763757|No|31.62|No|No|No|0.0|0.0|Yes|Female|75-79|White|No|Yes|Good|8.0|No|No|Yes
+629979|No|25.8|No|No|No|0.0|2.0|No|Male|45-49|White|No|Yes|Excellent|8.0|No|No|No
+648804|No|24.8|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Fair|7.0|No|No|No
+628086|No|55.24|No|No|No|1.0|0.0|No|Male|40-44|White|No|Yes|Very good|6.0|No|No|No
+337675|No|26.97|No|No|No|0.0|0.0|No|Male|65-69|White|Yes|Yes|Very good|8.0|No|No|Yes
+467180|No|||No|No|0.0|0.0|No||60-64|White|No|No|Excellent||No|No|No
+228938|No|28.87|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Very good|8.0|No|No|No
+257828|Yes|25.68|No|No|No|1.0|0.0|No|Male|55-59|White|No|Yes|Very good|7.0|No|No|No
+636054|No|28.31|No|No|No|0.0|0.0|No|Male|65-69|White|Yes|No|Excellent|8.0|No|No|No
+446542|No|22.4|No|No|No|30.0|0.0|No|Male|70-74|White|No|No|Good|8.0|No|No|No
+309708|No|27.02|Yes|No|No|15.0|0.0|No|Male|60-64|White|No|Yes|Very good|6.0|No|No|No
+753497|No|30.04|No|No|No|0.0|0.0|No|Female|75-79|Black|No|No|Excellent|7.0|No|No|No
+563665|No|31.93|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Good|7.0|No|No|No
+812671|No|20.6|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Very good|8.0|No|No|No
+733489|No|23.73|No|No|No|7.0|0.0|No|Male|45-49|White|No|No|Excellent|7.0|No|No|No
+748348|No|34.95|Yes|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Excellent|8.0|No|No|No
+503447|No|25.82|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|7.0|No|No|Yes
+818549|Yes|41.09|Yes|No|No|30.0|0.0|Yes|Male|60-64|White|Yes|No|Good|8.0|No|Yes|No
+646972|No|27.64|No|No|No|0.0|0.0|No|Female|80 or older|White|No, borderline diabetes|Yes|Excellent|7.0|No|No|No
+314979|No|43.77|No|No|No|20.0|0.0|Yes|Female|65-69|Black|Yes|No|Good|12.0|No|No|No
+291717|No|27.46|Yes|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Very good|6.0|No|No|No
+575762|No|17.94|Yes|No|No|3.0|0.0|Yes|Male|60-64|Black|No|No|Very good|3.0|No|No|No
+405342|No|34.7|No|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Very good|7.0|No|No|No
+218242|No|23.78|No|No|No|0.0|5.0|No|Female|60-64|White|No|Yes|Excellent|7.0|No|No|Yes
+164059|No|37.76|Yes|No|No|0.0|0.0|No|Female|45-49|White|No|No|Very good|5.0|No|No|No
+217319|No|22.31|No|No|No|0.0|15.0|No|Female|18-24|White|No|Yes|Excellent|9.0|No|No|No
+593488|No|23.41|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|7.0|No|No|No
+393768|No|26.63|No|No|No|0.0|0.0|No|Male|18-24|Asian|No, borderline diabetes|No|Excellent|7.0|No|No|No
+886510|No|22.46|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Very good|7.0|No|No|No
+833193|No|19.97|No|No|Yes|5.0|5.0|Yes|Male|80 or older|American Indian/Alaskan Native|No|No|Good|7.0|No|No|No
+848408|No|27.44|No|No|No|0.0|5.0|No|Female|25-29|White|No|Yes|Very good|8.0|Yes|No|No
+700270|No|20.98|Yes|No|No|0.0|0.0|No|Female|60-64|White|Yes (during pregnancy)|Yes|Very good|7.0|No|No|No
+622078|No|29.95|No|No|No|6.0|20.0|No|Female|40-44|White|No|Yes|Very good|9.0|No|No|No
+784483|No|29.53|No|No|No|2.0|0.0|No|Male|35-39|Hispanic|No|Yes|Very good|7.0|No|No|No
+304405|No|31.19|No|Yes|No|0.0|20.0|No|Male|35-39|White|No|Yes|Very good|7.0|No|No|No
+173758|No|22.96|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Excellent|7.0|Yes|No|No
+852946|No|23.44|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Excellent|6.0|No|No|No
+126714|No|31.18|No|No|No|0.0|0.0|No|Male|50-54|Hispanic|No|No|Excellent|7.0|No|No|No
+857777|No|24.28|Yes|No|Yes|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|8.0|No|No|No
+841086|No|26.61|Yes|No|No|0.0|1.0|No|Female|55-59|White|No|Yes|Very good|7.0|No|No|No
+556251|No|26.58|No|No|No|14.0|0.0|No|Female|55-59|White|No|Yes|Very good|8.0|No|No|No
+634738|No|26.52|Yes|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Fair|8.0|No|No|No
+290862|No|21.46|No|No|No|0.0|0.0|No|Female|80 or older|White|No, borderline diabetes|No|Very good|6.0|No|No|No
+695942|No|26.39|No|No|No|5.0|2.0|No|Female|35-39|White|No|Yes|Good|7.0|Yes|No|No
+151577|No|32.28|Yes|No|No|30.0|15.0|No|Female|35-39|White|Yes|Yes|Fair|4.0|No|No|No
+553562|No|25.8|Yes|No|No|0.0|5.0|Yes|Male|60-64|White|No|No|Good|8.0|No|No|No
+862665|No|23.63|Yes|No|No|30.0|0.0|Yes|Male|50-54|American Indian/Alaskan Native|No|No|Fair|8.0|No|Yes|No
+433790|No|24.28|Yes|No|No|0.0|4.0|No|Female|55-59|White|No|Yes|Very good|7.0|Yes|No|No
+558484|No|33.28|No|Yes|No|0.0|2.0|No|Female|35-39|White|No|Yes|Very good|7.0|No|No|No
+841138|No|30.95|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|No|No
+237151|No|30.52|Yes|No|No|10.0|0.0|No|Male|55-59|White|No|No|Excellent|10.0|No|No|No
+860708|No|27.46|No|Yes|No|0.0|2.0|No|Female|50-54|White|No|Yes|Very good|9.0|No|No|No
+725225|No|36.81|Yes|No|No|5.0|0.0|No|Male|60-64|White|No|Yes|Fair|6.0|No|No|No
+796521|No|25.61|No|No|No|0.0|0.0|No|Female|30-34|Other|No|Yes|Good|8.0|No|No|No
+892242|No|42.91|No|No|Yes|0.0|0.0|No|Female|65-69|White|Yes|No|Good|8.0|No|No|No
+314366|No|25.11|No|No|No|0.0|0.0|Yes|Male|75-79|White|Yes|Yes|Fair|9.0|No|No|Yes
+647493|No|29.95|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|8.0|No|No|No
+169182|No|23.78|Yes|No|No|30.0|30.0|No|Female|55-59|White|No|Yes|Fair|9.0|No|No|No
+477920|No|25.51|Yes|No|No|10.0|3.0|Yes|Female|70-74|White|No|Yes|Poor|9.0|No|No|Yes
+428827|Yes|30.23|No|No|No|0.0|0.0|No|Female|40-44|Hispanic|No|Yes|Good|7.0|No|No|No
+471219|No|31.33|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|No|Good|10.0|No|No|No
+710683|No|30.85|No|No|No|3.0|3.0|No|Male|70-74|White|No|Yes|Good|8.0|No|No|Yes
+192032|Yes|23.3|Yes|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Good|7.0|No|No|No
+191494|No|30.51|Yes|No|No|4.0|5.0|No|Female|60-64|White|No|No|Fair|7.0|No|No|No
+131359|No|32.69|Yes|Yes|No|0.0|5.0|No|Male|60-64|White|Yes|Yes|Good|7.0|No|No|Yes
+382562|No|16.24|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Excellent|7.0|No|No|No
+186157|No|24.33|Yes|No|No|0.0|0.0|Yes|Male|80 or older|White|No|Yes|Fair|6.0|No|No|Yes
+450648|No|25.68|Yes|Yes|No|0.0|0.0|No|Male|50-54|White|No|No|Very good|5.0|No|No|No
+803017|No|34.96|No|No|No|15.0|0.0|No|Female|70-74|American Indian/Alaskan Native|No|No|Good|6.0|No|No|No
+299621|No|20.9|Yes|No|No|0.0|1.0|No|Female|70-74|White|No|Yes|Excellent|8.0|No|No|No
+121800|No|24.33|Yes|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Excellent|8.0|No|No|No
+615691|No|26.5|No|No|No|0.0|9.0|No|Male|60-64|White|No|Yes|Good|3.0|No|No|No
+283862|No|26.5|No|No|No|0.0|3.0|No|Male|30-34|White|No|No|Excellent|7.0|No|No|No
+293385|No|33.2|Yes|No|No|30.0|30.0|No|Female|25-29|Asian|Yes (during pregnancy)|Yes|Fair|7.0|No|No|No
+355690|No|36.49|Yes|No|No|0.0|7.0|No|Male|60-64|Other|No|No|Fair|7.0|Yes|No|No
+853175|No|29.94|No|No|No|0.0|0.0|No|Female|80 or older|Black|No|Yes|Very good|7.0|No|No|No
+472177|No|32.22|No|No|No|30.0|0.0|Yes|Female|45-49|White|No|No|Very good|3.0|No|No|No
+680360|No|30.67|Yes|No|No|0.0|30.0|No|Female|55-59|Black|No, borderline diabetes|Yes|Good|8.0|No|No|No
+330058|No|41.57|No|No|No|7.0|3.0|No|Female|50-54|Other|No|Yes|Good|6.0|No|Yes|No
+310914|Yes|42.88|No|No|No|0.0|0.0|Yes|Male|60-64|White|Yes|No|Good|4.0|No|No|No
+799368|No|46.63|Yes|No|No|0.0|0.0|No|Female|18-24|White|No|Yes|Good|7.0|Yes|No|No
+506325|No|25.1|Yes|No|No|0.0|0.0|No|Male|40-44|Other|No|Yes|Very good|7.0|No|No|No
+272135|No|28.12|Yes|No|No|0.0|0.0|No|Male|50-54|Hispanic|No|Yes|Excellent|8.0|No|No|No
+404496|No|25.63|No|No|No|0.0|0.0|No|Male|55-59|Asian|No, borderline diabetes|Yes|Good|7.0|No|No|No
+686437|No|29.54|No|No|No|0.0|0.0|No|Female|25-29|Black|No|No|Very good|8.0|No|No|No
+668120|No|25.06|No|No|No|0.0|0.0|No|Male|40-44|Hispanic|No|Yes|Good|7.0|No|No|No
+436110|Yes|29.38|No|No|Yes|10.0|5.0|No|Female|65-69|White|No|Yes|Fair|8.0|No|Yes|No
+160021|No|22.67|No|Yes|No|0.0|5.0|No|Female|50-54|White|Yes (during pregnancy)|Yes|Very good|6.0|No|No|No
+106543|No|31.95|No|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Excellent|8.0|No|No|No
+828399|No|26.63|No|Yes|No|0.0|15.0|No|Female|45-49|White|No|Yes|Excellent|7.0|No|No|No
+784461|No|32.61|No|No|No|0.0|2.0|No|Male|65-69|Black|Yes|Yes|Good|2.0|No|No|No
+544158|No|24.37|Yes|No|No|0.0|0.0|No|Female|50-54|White|No|Yes|Excellent|6.0|Yes|No|No
+643023|No|27.32|No|No|No|0.0|0.0|No|Male|45-49|Hispanic|No|No|Excellent|6.0|No|No|No
+180250|No|30.18|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|6.0|No|No|No
+566316|No|38.02|Yes|No|No|10.0|0.0|Yes|Female|35-39|White|No|Yes|Good|9.0|Yes|No|No
+396722|No|25.06|Yes|No|No|6.0|0.0|Yes|Female|70-74|White|No|Yes|Fair|6.0|Yes|No|No
+417072|No|22.14|No|No|No|0.0|0.0|No|Female|25-29|White|No|Yes|Very good|7.0|No|No|No
+515443|No|19.79|Yes|No|No|0.0|1.0|No|Male|30-34|White|No|Yes|Very good|4.0|No|No|No
+321680|No|31.89|No|No|No|2.0|0.0|No|Male|55-59|White|No|Yes|Good|6.0|Yes|No|No
+407311|No|24.33|Yes|No|No|30.0|30.0|Yes|Male|60-64|White|Yes|Yes|Fair|8.0|No|No|No
+230394|No|20.98|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Good|7.0|No|No|No
+496560|No|40.62|Yes|No|No|2.0|2.0|No|Female|35-39|Hispanic|Yes (during pregnancy)|Yes|Very good|7.0|No|No|No
+763958|No|23.06|Yes|Yes|No|0.0|15.0|Yes|Male|45-49|American Indian/Alaskan Native|No|Yes|Fair|7.0|No|No|No
+569604|No|30.08|No|No|No|3.0|0.0|No|Male|65-69|Black|Yes|Yes|Very good|8.0|No|No|No
+178265|No|21.11|Yes|No|No|0.0|0.0|No|Male|25-29|White|No|Yes|Very good|8.0|No|No|No
+667688|No|43.22|No|No|No|29.0|30.0|Yes|Female|55-59|White|Yes|Yes|Fair|8.0|Yes|No|No
+580219|No|29.29|Yes|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Excellent|8.0|No|No|No
+335669|No|26.78|No|No|No|3.0|0.0|No|Male|55-59|Other|No|Yes|Excellent|8.0|No|No|No
+147369|Yes|21.29|Yes|No|Yes|10.0|0.0|No|Male|75-79|White|No|No|Good|7.0|No|No|No
+755795|No|20.8|No|No|No|0.0|0.0|No|Female|65-69|White|No|Yes|Very good|8.0|No|No|No
+898690|No|31.57|Yes|No|No|8.0|10.0|No|Male|45-49|Other|Yes|Yes|Fair|4.0|No|No|No
+400388|No|32.55|Yes|No|No|0.0|0.0|No|Male|30-34|White|No|Yes|Very good|6.0|No|No|No
+682810|No|26.39|No|No|No|0.0|0.0|No|Male|45-49|Black|No|No|Very good|10.0|No|No|No
+133373|No|30.54|No|No|No|15.0|5.0|No|Female|50-54|Hispanic|No|Yes|Good|12.0|No|No|No
+789356|No|30.56|No|No|No|0.0|4.0|No|Male|30-34|Black|No|Yes|Very good|8.0|Yes|No|No
+242757|No|30.04|No|No|No|0.0|0.0|No|Female|70-74|Other|No|Yes|Very good|8.0|No|No|No
+662218|No|26.57|No|No|No|0.0|0.0|Yes|Female|60-64|White|No|Yes|Good|8.0|No|No|No
+228248|No|22.85|Yes|No|No|0.0|7.0|No|Female|80 or older|White|No|Yes|Good|6.0|No|No|Yes
+129939|No|20.8|Yes|No|No|0.0|0.0|No|Female|25-29|White|No|Yes|Very good|8.0|No|No|No
+217478|No|28.8|Yes|Yes|No|1.0|3.0|No|Female|30-34|White|No|Yes|Very good|7.0|No|No|No
+619986|No|29.65|Yes|No|No|5.0|10.0|No|Female|65-69|White|No|Yes|Good|8.0|No|No|No
+160675|No|31.57|No|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|8.0|No|No|No
+753185|No|24.27|No|Yes|No|0.0|10.0|No|Male|55-59|White|No|Yes|Excellent|7.0|No|No|Yes
+802700|No|22.24|Yes|No|No|0.0|5.0|No|Male|25-29|Other|No|Yes|Good|8.0|Yes|No|No
+790669|No|25.84|No|No|No|2.0|0.0|No|Male|50-54|White|No|Yes|Good|7.0|No|No|Yes
+100982|No|22.24|No|Yes|No|0.0|3.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|No|No
+261305|No|33.28|No|No|No|15.0|2.0|Yes|Female|55-59|White|Yes|No|Good|4.0|Yes|No|No
+621207|No|27.76|No|No|No|3.0|0.0|No|Male|60-64|Hispanic|No|Yes|Good|7.0|No|No|No
+484263|No|24.13|No|No|No|0.0|0.0|No|Female|55-59|Asian|No|Yes|Very good|8.0|No|No|No
+803015|No|23.11|Yes|No|No|0.0|0.0|No|Male|75-79|White|No|Yes|Good|8.0|No|No|No
+893829|No|25.8|No|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Excellent|7.0|No|No|No
+272552|No|20.98|No|No|No|0.0|10.0|No|Female|30-34|White|No|Yes|Excellent|8.0|No|No|No
+801930|No|39.49|No|No|No|0.0|7.0|Yes|Female|55-59|Black|No, borderline diabetes|Yes|Very good|10.0|Yes|No|No
+784797|No|27.46|Yes|Yes|No|0.0|0.0|No|Male|45-49|White|No|Yes|Excellent|7.0|No|No|No
+789547|No|34.7|Yes|No|No|0.0|0.0|No|Male|40-44|Hispanic|No|Yes|Very good|8.0|Yes|No|No
+204332|No|30.43|No|No|No|0.0|20.0|No|Male|18-24|Black|No|No|Very good|7.0|No|No|No
+813135|No|29.18|Yes|No|No|0.0|0.0|No|Female|75-79|White|No|Yes|Good|7.0|No|No|No
+549692|No|32.78|Yes|No|No|0.0|0.0|Yes|Male|50-54|White|No|Yes|Excellent|9.0|No|No|No
+767248|No|34.2|No|No|Yes|5.0|30.0|Yes|Female|75-79|White|No|Yes|Good|5.0|Yes|No|No
+599414|No|26.54|No|No|No|14.0|0.0|No|Male|60-64|White|No|No|Good|8.0|Yes|No|No
+896560|No|32.28|No|No|No|0.0|0.0|No|Female|18-24|Hispanic|No|No|Excellent|7.0|No|No|No
+374908|Yes|26.63|No|No|Yes|0.0|0.0|No|Male|55-59|Hispanic|Yes|Yes|Very good|9.0|No|No|No
+223220|Yes|39.06|Yes|No|No|15.0|0.0|No|Male|60-64|White|Yes|Yes|Fair|8.0|No|No|No
+786026|No|44.21|Yes|No|No|0.0|0.0|No|Female|25-29|White|Yes|Yes|Good|5.0|No|No|No
+533706|No|38.74|No|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Fair|8.0|No|No|No
+372854|No|23.92|No|No|No|0.0|0.0|No|Male|80 or older|White|No|Yes|Good|7.0|Yes|No|No
+226667|No|24.41|Yes|No|No|0.0|10.0|No|Male|55-59|White|No|Yes|Very good|6.0|No|No|No
+285212|No|28.89|No|No|No|14.0|0.0|Yes|Male|50-54|White|Yes|No|Very good|3.0|No|Yes|Yes
+810546|No|24.33|Yes|No|No|2.0|4.0|No|Female|35-39|White|No|Yes|Good|8.0|No|No|No
+834744|No|29.44|No|No|No|2.0|2.0|No|Male|75-79|White|No|No|Good|7.0|No|No|Yes
+869741|No|27.46|No|No|No|0.0|0.0|No|Female|40-44|Hispanic|No|Yes|Good|9.0|Yes|No|No
+302103|No|31.19|No|No|No|0.0|0.0|No|Male|45-49|White|No|Yes|Very good|8.0|No|No|No
+805716|Yes|45.52|Yes|No|No|2.0|0.0|Yes|Male|65-69|Black|No|No|Excellent|8.0|Yes|No|No
+587341|No|30.4|No|No|No|0.0|0.0|No|Male|55-59|Black|No|No|Excellent|6.0|No|No|No
+708717|No|26.09|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|8.0|No|No|No
+191598|No|29.76|Yes|No|No|30.0|2.0|No|Female|45-49|White|No|Yes|Fair|8.0|No|No|No
+362479|Yes|28.15|Yes|No|No|0.0|30.0|No|Female|80 or older|White|No|Yes|Very good|6.0|No|No|No
+133293|No|27.2|No|Yes|No|5.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+752447|No|36.04|Yes|No|No|0.0|0.0|No|Male|70-74|White|No|Yes|Good|8.0|No|No|No
+768369|No|21.63|Yes|No|No|0.0|7.0|No|Female|30-34|White|No|Yes|Very good|7.0|No|No|No
+651547|No|21.03|Yes|No|No|6.0|7.0|No|Female|70-74|White|No|Yes|Fair|7.0|No|No|No
+827912|No|44.63|Yes|No|No|1.0|0.0|Yes|Male|70-74|White|No|Yes|Very good|8.0|No|No|No
+544823|No|33.0|Yes|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|9.0|No|No|No
+349317|No|26.45|Yes|No|No|0.0|0.0|No|Female|45-49|Hispanic|No|No|Fair|5.0|No|No|No
+456091|No|32.61|No|No|No|0.0|0.0|No|Female|40-44|White|No|Yes|Good|4.0|No|No|No
+219928|No|25.84|Yes|No|No|2.0|0.0|No|Male|40-44|White|No|Yes|Excellent|8.0|No|No|No
+850604|No|27.86|No|No|No|0.0|0.0|No|Male|75-79|White|Yes|Yes|Good|7.0|No|No|No
+283379|No|25.66|Yes|No|No|0.0|20.0|No|Male|30-34|White|No|Yes|Good|6.0|Yes|No|No
+746137|No|28.06|No|No|No|0.0|2.0|No|Female|55-59|White|No|Yes|Excellent|7.0|Yes|No|No
+495536|No|20.8|No|Yes|No|0.0|0.0|No|Male|25-29|Hispanic|No|Yes|Very good|8.0|No|No|No
+829920|Yes|26.69|Yes|No|No|0.0|0.0|No|Male|60-64|White|No|Yes|Very good|7.0|No|No|No
+750005|No|30.34|No|No|No|0.0|0.0|No|Male|18-24|White|No|Yes|Excellent|8.0|No|No|No
+261851|No|32.55|Yes|No|No|0.0|1.0|No|Male|35-39|White|No|Yes|Very good|5.0|No|No|No
+691135|No|19.97|No|No|No|0.0|15.0|No|Female|18-24|White|No|Yes|Very good|6.0|No|No|No
+834492|No|21.95|Yes|No|No|0.0|0.0|No|Female|35-39|White|No|Yes|Good|7.0|No|No|No
+688402|No|28.7|No|No|No|0.0|0.0|No|Male|50-54|Asian|No|Yes|Excellent|8.0|No|No|No
+839752|No|19.94|No|No|No|1.0|0.0|No|Female|30-34|White|No|Yes|Very good|8.0|No|No|No
+691485|No|34.08|No|No|No|0.0|0.0|No|Male|55-59|Black|No|Yes|Very good|8.0|No|No|No
+809765|No|26.57|No|No|No|4.0|3.0|No|Female|50-54|White|No|Yes|Very good|7.0|Yes|No|No
+706926|No|24.37|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+163838|No|21.4|No|No|No|14.0|30.0|Yes|Female|18-24|White|No|Yes|Good|8.0|No|No|No
+153087|Yes|23.01|No|No|Yes|0.0|0.0|No|Male|55-59|White|No|Yes|Fair|8.0|No|No|No
+567222|Yes|27.46|Yes|No|No|20.0|10.0|Yes|Female|55-59|White|No|Yes|Poor|6.0|Yes|No|No
+182741|No|39.13|No|No|No|6.0|8.0|No|Male|40-44|White|No|Yes|Good|8.0|No|Yes|No
+431579|No|35.51|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Good|9.0|No|No|No
+663422|No|32.12|No|No|No|0.0|5.0|No|Female|40-44|White|No|Yes|Good|8.0|No|No|No
+789889|No|38.39|Yes|No|No|0.0|0.0|No|Male|45-49|White|No|No|Very good|8.0|No|No|No
+492178|No|23.01|Yes|No|No|3.0|2.0|No|Male|35-39|White|No|Yes|Very good|6.0|No|No|No
+504246|No|22.85|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Excellent|7.0|No|No|Yes
+479560|No|31.8|No|No|No|8.0|0.0|No|Male|50-54|White|No|Yes|Poor|7.0|No|No|No
+165188|No|27.63|Yes|Yes|No|0.0|0.0|No|Female|75-79|White|No|Yes|Very good|6.0|No|No|No
+390699|No|48.06|Yes|No|No|0.0|30.0|No|Female|40-44|White|Yes (during pregnancy)|Yes|Very good|5.0|No|No|No
+730905|Yes|25.06|No|No|No|10.0|0.0|No|Female|80 or older|White|No|No|Very good|8.0|Yes|No|Yes
+543123|No|25.97|No|No|No|0.0|0.0|No|Female|70-74|White|No|Yes|Very good|8.0|No|Yes|No
+287646|No|32.28|No|No|No|0.0|0.0|No|Male|25-29|Hispanic|No|Yes|Excellent|7.0|No|No|No
+869564|No|32.61|No|No|No|1.0|0.0|No|Female|55-59|White|No|Yes|Fair|7.0|Yes|No|Yes
+752394|No|22.46|No|No|No|0.0|0.0|No|Female|80 or older|White|No|Yes|Very good|7.0|No|No|No
+304449|No|22.05|No|No|No|0.0|0.0|No|Male|25-29|Black|No|No|Good|7.0|No|No|No
+879329|Yes|21.93|No|No|No|0.0|10.0|No|Female|55-59|White|No|Yes|Very good|8.0|No|No|No
+182822|No|32.28|Yes|No|No|0.0|15.0|No|Female|65-69|White|No|Yes|Good|7.0|No|No|Yes
+604811|No|24.8|No|No|No|6.0|0.0|Yes|Female|75-79|White|No|Yes|Good|8.0|No|Yes|No
+425526|No|22.24|Yes|No|No|0.0|0.0|No|Female|55-59|White|No|Yes|Very good|8.0|No|No|No
+218057|No|32.08|Yes|No|No|0.0|0.0|No|Male|40-44|White|No|Yes|Very good|6.0|No|No|No
+690293|No|21.7|No|No|No|0.0|0.0|No|Male|50-54|White|No|Yes|Good|8.0|No|No|No
+822896|No|27.44|No|No|No|0.0|0.0|No|Female|60-64|White|No|Yes|Very good|6.0|No|No|No
+340543|No|23.24|Yes|Yes|No|20.0|0.0|Yes|Male|80 or older|White|No|Yes|Very good|8.0|No|No|No
+746730|No|41.84|No|No|No|1.0|0.0|No|Male|18-24|Hispanic|Yes|Yes|Very good|7.0|No|No|No
+460578|Yes|21.7|No|No|No|0.0|0.0|No|Male|65-69|White|No|Yes|Very good|7.0|No|No|No
+423899|No|33.67|Yes|No|No|0.0|0.0|Yes|Female|50-54|White|Yes|Yes|Very good|8.0|Yes|No|No
+366026|No|27.5|No|No|No|0.0|0.0|No|Male|55-59|White|No|Yes|Excellent|5.0|No|No|No
+668746|No|21.25|No|No|Yes|30.0|20.0|No|Male|18-24|Hispanic|No|Yes|Very good|7.0|No|No|No
+252430|No|22.14|No|Yes|No|0.0|2.0|No|Female|60-64|White|No|Yes|Very good|7.0|No|No|No
+707822|No|23.03|No|No|No|0.0|0.0|No|Female|50-54|White|No, borderline diabetes|Yes|Very good|8.0|No|No|No
